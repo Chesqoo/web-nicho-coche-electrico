@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../consts';
+---
+<Base title={`Política de privacidad — ${SITE.nombre}`}>
+  <main>
+    <article class="prosa">
+      <h1>Política de privacidad</h1>
+      <p>{SITE.nombre} no recopila datos personales directamente: este sitio no tiene formularios, registro de usuarios ni comentarios.</p>
+      <p>Este sitio utiliza Google AdSense, un servicio de publicidad de Google LLC. Google puede utilizar cookies y tecnologías similares para mostrar anuncios basados en visitas anteriores a este u otros sitios web.</p>
+      <p>Puedes inhabilitar la publicidad personalizada y ejercer tus derechos sobre estos datos directamente en <a href="https://adssettings.google.com" rel="nofollow">Configuración de anuncios de Google</a>.</p>
+    </article>
+  </main>
+</Base>

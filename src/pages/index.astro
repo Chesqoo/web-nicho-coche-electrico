@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PostCard from '../components/PostCard.astro';
+import FeaturedPost from '../components/FeaturedPost.astro';
+import { SITE, CATEGORIAS } from '../consts';
+
+// En dev se muestran también los borradores; en producción solo draft: false.
+const posts = (await getCollection('blog', ({ data }) => (import.meta.env.PROD ? !data.draft : true)))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// El artículo marcado destacado: true manda; si no hay ninguno, el más reciente.
+const destacado = posts.find((p) => p.data.destacado) ?? posts[0];
+const resto = posts.filter((p) => p.id !== destacado?.id);
+---
+<Base title={SITE.nombre}>
+  <section class="hero">
+    <span class="eyebrow">{SITE.eyebrow}</span>
+    <h1 set:html={SITE.heroTitulo} />
+    <p>{SITE.descripcion}</p>
+    <nav class="hero-categorias" aria-label="Categorías">
+      {CATEGORIAS.map((c) => (
+        <a href={`/categoria/${c.id}/`}>
+          <span class="nombre-cat">{c.nombre}</span>
+          <p>{c.descripcion}</p>
+        </a>
+      ))}
+    </nav>
+  </section>
+  <main>
+    {posts.length === 0 && <p><em>Todavía no hay artículos publicados.</em></p>}
+    {destacado && <FeaturedPost post={destacado} />}
+    {resto.length > 0 && (
+      <>
+        <h2 class="seccion-titulo">Últimas guías</h2>
+        <div class="grid">
+          {resto.map((post) => <PostCard post={post} />)}
+        </div>
+      </>
+    )}
+  </main>
+</Base>

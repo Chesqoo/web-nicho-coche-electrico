@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../consts';
+---
+<Base title={`Página no encontrada — ${SITE.nombre}`}>
+  <main>
+    <section class="error-404">
+      <span class="eyebrow">Error 404</span>
+      <h1>Esta página se ha ido de excursión</h1>
+      <p>El enlace que has seguido no lleva a ningún artículo. Puede que se haya movido o que nunca haya existido.</p>
+      <a class="card-cta" href="/">Volver a la portada &rarr;</a>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .error-404 {
+    max-width: var(--ancho-prosa); margin: 0 auto; padding-top: 3rem; text-align: left;
+  }
+  .error-404 h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); margin: .6rem 0 .8rem; }
+  .error-404 p { color: var(--suave); font-size: 1.05rem; margin: 0 0 1.5rem; }
+</style>

@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../consts';
+---
+<Base title={`Sobre ${SITE.nombre}`} description={SITE.descripcion}>
+  <main>
+    <article class="prosa">
+      <header class="post">
+        <nav class="migas" aria-label="Ruta">
+          <a href="/">Inicio</a> &rsaquo; Sobre nosotros
+        </nav>
+        <h1>Sobre {SITE.nombre}</h1>
+      </header>
+
+      <p>{SITE.descripcion}</p>
+
+      <h2>Qué es {SITE.nombre}</h2>
+      <p>
+        {SITE.nombre} recopila y redacta información sobre energía, autoconsumo y ahorro
+        en el hogar: precios, ayudas, normativa y comparativas. Cada guía se revisa antes
+        de publicarse y las cifras se contrastan contra fuentes reales — no se inventan
+        para rellenar.
+      </p>
+
+      <h2>Metodología</h2>
+      <p>
+        Cuando un dato depende de tu contrato, tu zona climática o el precio del día,
+        el artículo lo dice explícitamente en vez de fingir una cifra universal.
+        Si algo no está verificado al 100%, se marca como tal hasta comprobarlo.
+      </p>
+    </article>
+  </main>
+</Base>

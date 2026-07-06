@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { SITE, categoriaDe } from '../consts';
+
+export async function getStaticPaths() {
+  // En dev se sirven también los borradores; en producción, solo draft: false.
+  const posts = await getCollection('blog', ({ data }) => (import.meta.env.PROD ? !data.draft : true));
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const fmt = new Intl.DateTimeFormat(SITE.idioma, { dateStyle: 'long' });
+const cat = categoriaDe(post.data.tags);
+
+// Datos estructurados (SEO): ficha de artículo para Google
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  ...(post.data.updatedDate && { dateModified: post.data.updatedDate.toISOString() }),
+  author: { '@type': 'Organization', name: SITE.nombre, url: Astro.site?.href },
+  publisher: { '@type': 'Organization', name: SITE.nombre },
+  mainEntityOfPage: new URL(`/${post.id}/`, Astro.site).href,
+};
+---
+<Base title={`${post.data.title} — ${SITE.nombre}`} description={post.data.description}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <main>
+    <article class="prosa">
+      <header class="post">
+        <nav class="migas" aria-label="Ruta">
+          <a href="/">Inicio</a>
+          {cat && <> &rsaquo; <a href={`/categoria/${cat.id}/`}>{cat.nombre}</a></>}
+        </nav>
+        <h1>{post.data.title}</h1>
+        <p class="meta">
+          Publicado el {fmt.format(post.data.pubDate)}
+          {post.data.updatedDate && ` · Actualizado el ${fmt.format(post.data.updatedDate)}`}
+          {post.data.draft && <span class="badge-borrador">Borrador</span>}
+        </p>
+      </header>
+      <AdSlot />
+      <Content />
+      <AdSlot />
+    </article>
+  </main>
+</Base>

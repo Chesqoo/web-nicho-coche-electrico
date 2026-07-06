@@ -1,0 +1,2 @@
+# Descomenta y pon tu ID de publisher cuando AdSense te apruebe:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

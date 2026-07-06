@@ -1,0 +1,24 @@
+---
+// Componente preparado para cuando haya fotos propias (kit instalado,
+// factura anonimizada...): las fotos reales son el anti-IA más efectivo.
+// No se usa todavía en ningún artículo — el contenido es Markdown plano,
+// así que este componente está pensado para páginas .astro por ahora.
+interface Props {
+  src: string;
+  alt: string;
+  caption?: string;
+}
+const { src, alt, caption } = Astro.props;
+---
+<figure class="figura">
+  <img src={src} alt={alt} loading="lazy" />
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>
+
+<style>
+  .figura { margin: 1.8rem 0; }
+  .figura img { display: block; width: 100%; border-radius: var(--radius); }
+  .figura figcaption {
+    margin-top: .5rem; color: var(--suave); font-size: .85rem; text-align: center;
+  }
+</style>

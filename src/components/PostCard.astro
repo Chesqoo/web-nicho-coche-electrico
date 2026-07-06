@@ -1,0 +1,21 @@
+---
+import { SITE, categoriaDe } from '../consts';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+const { post } = Astro.props;
+const cat = categoriaDe(post.data.tags);
+const fmt = new Intl.DateTimeFormat(SITE.idioma, { dateStyle: 'long' });
+---
+<article class="card">
+  {cat && <a class="chip" href={`/categoria/${cat.id}/`}>{cat.nombre}</a>}
+  <h2>
+    <a href={`/${post.id}/`}>{post.data.title}</a>
+    {post.data.draft && <span class="badge-borrador">Borrador</span>}
+  </h2>
+  <p class="desc">{post.data.description}</p>
+  <span class="meta">{fmt.format(post.data.pubDate)}</span>
+  <a class="card-cta" href={`/${post.id}/`}>{SITE.textoCta}</a>
+</article>

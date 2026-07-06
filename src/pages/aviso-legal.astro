@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../consts';
+---
+<Base title={`Aviso legal — ${SITE.nombre}`}>
+  <main>
+    <article class="prosa">
+      <h1>Aviso legal</h1>
+      <p>{SITE.nombre} es un proyecto editorial de carácter informativo.</p>
+      <p>Este sitio web tiene carácter informativo. El titular no se hace responsable del uso que terceros hagan de la información publicada.</p>
+      <p>Los contenidos de este sitio están protegidos por derechos de propiedad intelectual. Queda prohibida su reproducción sin autorización expresa.</p>
+    </article>
+  </main>
+</Base>

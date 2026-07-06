@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostListItem from '../../components/PostListItem.astro';
+import { SITE, CATEGORIAS } from '../../consts';
+
+export async function getStaticPaths() {
+  return CATEGORIAS.map((categoria) => ({
+    params: { cat: categoria.id },
+    props: { categoria },
+  }));
+}
+
+const { categoria } = Astro.props;
+const posts = (
+  await getCollection('blog', ({ data }) =>
+    (import.meta.env.PROD ? !data.draft : true) && data.tags.includes(categoria.id)
+  )
+).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<Base title={`${categoria.nombre} — ${SITE.nombre}`} description={categoria.descripcion}>
+  <section class="hero hero-compacto">
+    <span class="eyebrow">Categoría</span>
+    <h1>{categoria.nombre}</h1>
+    <p>{categoria.descripcion}</p>
+  </section>
+  <main>
+    {posts.length === 0 && <p><em>Todavía no hay guías en esta categoría. Vuelve pronto.</em></p>}
+    <div class="lista">
+      {posts.map((post) => <PostListItem post={post} />)}
+    </div>
+  </main>
+</Base>

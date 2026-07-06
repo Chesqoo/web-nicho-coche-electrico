@@ -1,0 +1,26 @@
+---
+// Bloque de anuncio AdSense. No renderiza nada si adsenseClient está vacío.
+// Uso: <AdSlot slot="1234567890" />  (el slot lo crea AdSense al definir el bloque)
+import { SITE } from '../consts';
+
+interface Props {
+  slot?: string;
+}
+const { slot = '' } = Astro.props;
+---
+{SITE.adsenseClient && (
+  <div class="ad-slot">
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={SITE.adsenseClient}
+      data-ad-slot={slot}
+      data-ad-format="auto"
+      data-full-width-responsive="true"
+    ></ins>
+    <script>
+      // @ts-ignore
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+)}

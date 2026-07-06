@@ -1,0 +1,40 @@
+---
+// Fila compacta para listados de categoría: fecha a la izquierda, estilo
+// lista editorial, en vez de repetir la tarjeta con chip/sombra de la portada.
+import { SITE } from '../consts';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+const { post } = Astro.props;
+const fmt = new Intl.DateTimeFormat(SITE.idioma, { dateStyle: 'medium' });
+---
+<article class="lista-item">
+  <span class="meta">{fmt.format(post.data.pubDate)}</span>
+  <div>
+    <h2>
+      <a href={`/${post.id}/`}>{post.data.title}</a>
+      {post.data.draft && <span class="badge-borrador">Borrador</span>}
+    </h2>
+    <p class="desc">{post.data.description}</p>
+  </div>
+</article>
+
+<style>
+  .lista-item {
+    display: grid; grid-template-columns: 7rem 1fr; gap: 1.3rem;
+    padding: 1.3rem 0; border-bottom: 1px solid var(--borde);
+  }
+  .lista-item:first-child { padding-top: 0; }
+  .lista-item .meta { padding-top: .2rem; }
+  .lista-item h2 {
+    margin: 0 0 .35rem; font-size: 1.1rem; font-weight: 600; line-height: 1.35;
+  }
+  .lista-item h2 a { color: var(--texto); }
+  .lista-item h2 a:hover { color: var(--acento); text-decoration: none; }
+  .lista-item .desc { margin: 0; color: var(--suave); font-size: .92rem; }
+  @media (max-width: 560px) {
+    .lista-item { grid-template-columns: 1fr; gap: .3rem; }
+  }
+</style>
