@@ -21,7 +21,7 @@ export const SITE = {
 
   // ID de cliente AdSense (ca-pub-XXXXXXXXXXXXXXXX).
   // Vacío ('') = no se inserta el código de anuncios.
-  adsenseClient: '',
+  adsenseClient: 'ca-pub-4597818086995636',
 };
 
 // Categorías del sitio. El PRIMER tag de cada artículo debe ser
