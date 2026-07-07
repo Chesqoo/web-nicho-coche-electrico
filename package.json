@@ -12,6 +12,7 @@
     "@fontsource/fraunces": "^5.2.9",
     "@fontsource/public-sans": "^5.2.7",
     "astro": "^5.0.0",
+    "astro-og-canvas": "^0.13.0",
     "unist-util-visit": "^5.1.0"
   }
 }
