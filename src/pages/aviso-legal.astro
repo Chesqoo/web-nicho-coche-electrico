@@ -2,7 +2,10 @@
 import Base from '../layouts/Base.astro';
 import { SITE } from '../consts';
 ---
-<Base title={`Aviso legal — ${SITE.nombre}`}>
+<Base
+  title={`Aviso legal — ${SITE.nombre}`}
+  description={`Aviso legal de ${SITE.nombre}: condiciones de uso y propiedad intelectual del contenido de este sitio.`}
+>
   <main>
     <article class="prosa">
       <h1>Aviso legal</h1>

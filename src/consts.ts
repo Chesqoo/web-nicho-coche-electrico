@@ -9,6 +9,11 @@ export const SITE = {
   descripcion: 'Autoconsumo, aerotermia y ahorro energético en el hogar, explicados con números reales.',
   idioma: 'es',
 
+  // <title> de la home: a diferencia del resto de páginas (que usan el título
+  // del artículo/sección), la home no tiene uno propio salvo este — que debe
+  // llevar las keywords principales del nicho, no solo el nombre del sitio.
+  tituloHome: 'Vatios en Casa — Autoconsumo, aerotermia y ahorro energético',
+
   // Texto del hero de portada
   eyebrow: 'Energía y autoconsumo · España',
   heroTitulo: 'Ahorra en tu factura con <em>números reales</em>, no con humo',

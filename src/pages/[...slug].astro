@@ -30,9 +30,35 @@ const jsonLd = {
   publisher: { '@type': 'Organization', name: SITE.nombre },
   mainEntityOfPage: new URL(`/${post.id}/`, Astro.site).href,
 };
+
+// FAQPage (SEO): si el artículo tiene una sección "## Preguntas frecuentes"
+// con pares **pregunta** / respuesta, se extrae del markdown en bruto para
+// generar el schema — no requiere tocar el frontmatter de los artículos.
+function extraerFAQ(markdown: string) {
+  const bloque = markdown.match(/##\s*Preguntas frecuentes\s*\n+([\s\S]*?)(?=\n##\s|$)/i)?.[1];
+  if (!bloque) return [];
+  return [...bloque.matchAll(/\*\*(.+?)\*\*\s*\n+(.+?)(?=\n\*\*|\n##|$)/gs)]
+    .map(([, pregunta, respuesta]) => ({
+      pregunta: pregunta.trim(),
+      // enlaces markdown → solo el texto ancla; sin negritas sueltas
+      respuesta: respuesta.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').trim(),
+    }))
+    .filter((f) => f.pregunta && f.respuesta);
+}
+const faq = extraerFAQ(post.body ?? '');
+const faqJsonLd = faq.length > 0 && {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(({ pregunta, respuesta }) => ({
+    '@type': 'Question',
+    name: pregunta,
+    acceptedAnswer: { '@type': 'Answer', text: respuesta },
+  })),
+};
 ---
-<Base title={`${post.data.title} — ${SITE.nombre}`} description={post.data.description}>
+<Base title={post.data.title} description={post.data.description} ogImage={`/og/${post.id}.png`}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  {faqJsonLd && <script type="application/ld+json" set:html={JSON.stringify(faqJsonLd)} />}
   <main>
     <article class="prosa">
       <header class="post">

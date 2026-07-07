@@ -98,7 +98,14 @@ production builds. Any new page listing posts must repeat this same filter.
 - `/categoria/[cat]/` → [src/pages/categoria/[cat].astro](src/pages/categoria/[cat].astro) — one
   static page per entry in `CATEGORIAS`, filtered by tag.
 - `/[slug]/` → [src/pages/[...slug].astro](src/pages/[...slug].astro) — individual article, includes
-  Article JSON-LD structured data, breadcrumb, and `<AdSlot>` before/after content.
+  Article JSON-LD structured data, breadcrumb, and `<AdSlot>` before/after content. Also parses the
+  raw markdown body for a `## Preguntas frecuentes` section (pairs of `**question**` / answer) and
+  emits FAQPage JSON-LD when found — this reads `post.body`, it doesn't touch the `.md` files. Each
+  article gets its own OG image at `/og/<slug>.png` (see below), not the site-wide default.
+- `/og/[...route].ts` → [src/pages/og/[...route].ts](src/pages/og/[...route].ts) — build-time route
+  (via `astro-og-canvas`) that renders one PNG per published article using its real title/description,
+  self-hosted Fraunces/Public Sans. Static output only, never loaded by visitors — just referenced in
+  `og:image` for link previews. Static pages keep the shared `public/og-default.svg`.
 - `/sobre/` → [src/pages/sobre.astro](src/pages/sobre.astro) — about the publication (not a person).
 - `/404` → [src/pages/404.astro](src/pages/404.astro).
 - Legal pages (`aviso-legal`, `privacidad`, `cookies`) are static `.astro` files. By design they use

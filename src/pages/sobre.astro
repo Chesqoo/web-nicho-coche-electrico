@@ -2,7 +2,10 @@
 import Base from '../layouts/Base.astro';
 import { SITE } from '../consts';
 ---
-<Base title={`Sobre ${SITE.nombre}`} description={SITE.descripcion}>
+<Base
+  title={`Sobre ${SITE.nombre}`}
+  description={`Qué es ${SITE.nombre}, cómo se elige y verifica la información que publicamos, y qué esperar de esta web.`}
+>
   <main>
     <article class="prosa">
       <header class="post">
