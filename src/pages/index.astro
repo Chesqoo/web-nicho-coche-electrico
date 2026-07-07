@@ -13,7 +13,7 @@ const posts = (await getCollection('blog', ({ data }) => (import.meta.env.PROD ?
 const destacado = posts.find((p) => p.data.destacado) ?? posts[0];
 const resto = posts.filter((p) => p.id !== destacado?.id);
 ---
-<Base title={SITE.nombre}>
+<Base title={SITE.tituloHome}>
   <section class="hero">
     <span class="eyebrow">{SITE.eyebrow}</span>
     <h1 set:html={SITE.heroTitulo} />

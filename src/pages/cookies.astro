@@ -2,7 +2,10 @@
 import Base from '../layouts/Base.astro';
 import { SITE } from '../consts';
 ---
-<Base title={`Política de cookies — ${SITE.nombre}`}>
+<Base
+  title={`Política de cookies — ${SITE.nombre}`}
+  description={`Qué cookies usa ${SITE.nombre}, con qué fines y cómo puedes configurarlas o rechazarlas.`}
+>
   <main>
     <article class="prosa">
       <h1>Política de cookies</h1>
