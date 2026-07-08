@@ -33,12 +33,26 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
   <meta property="og:type" content="website" />
   <meta property="og:image" content={ogImageUrl} />
   <meta name="twitter:card" content="summary_large_image" />
+  {SITE.searchConsoleId && (
+    <meta name="google-site-verification" content={SITE.searchConsoleId} />
+  )}
   {SITE.adsenseClient && (
     <script
       async
       src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsenseClient}`}
       crossorigin="anonymous"
     ></script>
+  )}
+  {SITE.analyticsId && (
+    <>
+      <script async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.analyticsId}`}></script>
+      <script define:vars={{ analyticsId: SITE.analyticsId }}>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', analyticsId);
+      </script>
+    </>
   )}
   <style is:global>
     /* ============================================================

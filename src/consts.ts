@@ -27,6 +27,14 @@ export const SITE = {
   // ID de cliente AdSense (ca-pub-XXXXXXXXXXXXXXXX).
   // Vacío ('') = no se inserta el código de anuncios.
   adsenseClient: 'ca-pub-4597818086995636',
+
+  // Measurement ID de Google Analytics 4 (G-XXXXXXXXXX).
+  // Vacío ('') = no se inserta el script de medición.
+  analyticsId: '',
+  // Token de verificación de Google Search Console (el valor del content=
+  // de la etiqueta <meta name="google-site-verification"> que te da Search
+  // Console al dar de alta el dominio). Vacío ('') = no se inserta la etiqueta.
+  searchConsoleId: '',
 };
 
 // Categorías del sitio. El PRIMER tag de cada artículo debe ser
