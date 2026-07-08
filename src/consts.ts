@@ -30,7 +30,7 @@ export const SITE = {
 
   // Measurement ID de Google Analytics 4 (G-XXXXXXXXXX).
   // Vacío ('') = no se inserta el script de medición.
-  analyticsId: '',
+  analyticsId: 'G-N8KWPWDY4X',
   // Token de verificación de Google Search Console (el valor del content=
   // de la etiqueta <meta name="google-site-verification"> que te da Search
   // Console al dar de alta el dominio). Vacío ('') = no se inserta la etiqueta.
