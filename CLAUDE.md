@@ -64,10 +64,11 @@ its `Categoria` (first match wins — by convention the category tag should be l
 if no post has it, the most recent post is used instead.
 
 **Site-wide config lives in one file**: [src/consts.ts](src/consts.ts) holds `SITE` (name,
-description, hero copy, CTA/footer microcopy, AdSense client ID) and `CATEGORIAS`.
-This is the file to edit when cloning the template for a new niche — along with the domain in
-`astro.config.mjs`. New fields are additive and commented; keep it that way so consts.ts stays the
-single file to touch per clone.
+description, hero copy, CTA/footer microcopy, AdSense/Analytics/Search Console IDs) and
+`CATEGORIAS`. This is the file to edit when cloning the template for a new niche — along with the
+domain in `astro.config.mjs`. New fields are additive and commented; keep it that way so consts.ts
+stays the single file to touch per clone. Full per-clone checklist (including the non-code steps —
+Cloudflare, GA4, Search Console, AdSense) lives in [README.md](README.md).
 
 **No individual author identity, by design**: this site is framed as a publication/aggregator, not a
 personal blog — there's intentionally no author name, bio, or photo anywhere (not in `consts.ts`, not
@@ -106,6 +107,11 @@ production builds. Any new page listing posts must repeat this same filter.
   (via `astro-og-canvas`) that renders one PNG per published article using its real title/description,
   self-hosted Fraunces/Public Sans. Static output only, never loaded by visitors — just referenced in
   `og:image` for link previews. Static pages keep the shared `public/og-default.svg`.
+- `/robots.txt` → [src/pages/robots.txt.ts](src/pages/robots.txt.ts) and `/ads.txt` →
+  [src/pages/ads.txt.ts](src/pages/ads.txt.ts) — generated at build time from `Astro.site` and
+  `SITE.adsenseClient` respectively, instead of static files in `public/`, so the domain/AdSense ID
+  only need to be set once (in `astro.config.mjs` / `consts.ts`) and can't drift out of sync. Don't
+  add `public/robots.txt` or `public/ads.txt` back — they'd conflict with these routes.
 - `/sobre/` → [src/pages/sobre.astro](src/pages/sobre.astro) — about the publication (not a person).
 - `/404` → [src/pages/404.astro](src/pages/404.astro).
 - Legal pages (`aviso-legal`, `privacidad`, `cookies`) are static `.astro` files. By design they use
@@ -118,10 +124,13 @@ head/meta/canonical/OG tags, a large global `<style>` block (all site CSS lives 
 CSS files/framework), header with mobile hamburger nav built from `CATEGORIAS`, and footer.
 Every page wraps its content in `<Base>`.
 
-**AdSense**: fully config-gated — [src/components/AdSlot.astro](src/components/AdSlot.astro) renders
-nothing if `SITE.adsenseClient` is empty, and the AdSense script tag in `Base.astro` is likewise
-conditional. Enabling ads is just setting `adsenseClient` in `consts.ts` and uncommenting the line in
-`public/ads.txt`.
+**AdSense/Analytics/Search Console are all config-gated the same way**: empty string in `consts.ts`
+= nothing rendered, non-empty = the tag/script appears. `SITE.adsenseClient` gates both
+[src/components/AdSlot.astro](src/components/AdSlot.astro) and the AdSense `<script>` in
+`Base.astro` (and `ads.txt`, see above); `SITE.analyticsId` gates the GA4 gtag.js snippet;
+`SITE.searchConsoleId` gates the `google-site-verification` meta tag. Follow this same
+empty-string-gated pattern for any new third-party embed — never hardcode an ID directly in a
+component.
 
 **Sitemap**: generated automatically by `@astrojs/sitemap` (configured in `astro.config.mjs`), keyed
 off `site: 'https://...'` in that same file — update that URL when cloning for a new domain.
