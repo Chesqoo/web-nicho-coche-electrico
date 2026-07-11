@@ -49,6 +49,14 @@ automáticamente su página `/categoria/<id>/` y su enlace en el menú).
 Cambia `site: 'https://tu-dominio.com'`. De aquí se derivan automáticamente el sitemap,
 `robots.txt` y las URLs canónicas/OG — no hay que tocar nada más para eso.
 
+### 2b. Nombre del Worker — `wrangler.jsonc`
+
+Cambia el campo `name` al nombre del proyecto nuevo (p. ej. `web-nicho-coche-electrico`). Es fácil
+de olvidar porque no está en `consts.ts`, pero es crítico: es el nombre del Worker de Cloudflare al
+que apunta `wrangler deploy`, y **es independiente** del "Project name" que escribas en el asistente
+del dashboard de Cloudflare al conectar el repo. Si lo dejas con el nombre de la web anterior, el
+primer deploy sobrescribirá el Worker de esa otra web en producción.
+
 ### 3. Identidad visual — `public/favicon.svg` y `public/og-default.svg`
 
 Estos dos SVG llevan el monograma y el nombre grabados a mano (no se generan desde

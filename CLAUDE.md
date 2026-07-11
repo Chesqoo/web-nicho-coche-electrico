@@ -70,6 +70,12 @@ domain in `astro.config.mjs`. New fields are additive and commented; keep it tha
 stays the single file to touch per clone. Full per-clone checklist (including the non-code steps —
 Cloudflare, GA4, Search Console, AdSense) lives in [README.md](README.md).
 
+**[wrangler.jsonc](wrangler.jsonc) is NOT covered by the consts.ts checklist above and is easy to
+forget when cloning**: its `name` field is the Cloudflare Worker that `wrangler deploy` overwrites —
+it is independent of the "Project name" typed into the Cloudflare dashboard when connecting the
+repo. Update it to match the new niche/repo name before the first deploy, or a build connected to
+the new repo will silently redeploy over a *different* site's live Worker.
+
 **No individual author identity, by design**: this site is framed as a publication/aggregator, not a
 personal blog — there's intentionally no author name, bio, or photo anywhere (not in `consts.ts`, not
 in JSON-LD, not on `/sobre/`). JSON-LD `author` in `[...slug].astro` is `Organization` (site name),
