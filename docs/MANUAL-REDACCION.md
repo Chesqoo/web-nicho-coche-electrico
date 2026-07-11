@@ -127,3 +127,31 @@ draft: true              # SIEMPRE true al generar; lo baja el editor
 - [ ] Sección `## Fuentes` presente, con URLs reales y verificadas.
 - [ ] El title cumple lo que promete (cero clickbait falso).
 - [ ] Primer tag = id de categoría válido.
+
+## 9. Generación a escala y pase de resolución de VERIFICAR
+
+Al generar un cluster grande (10+ artículos), sigue dos pasadas separadas
+en vez de intentar cerrar cada artículo de una vez:
+
+1. **Pasada de redacción**: investiga por lotes agrupados por categoría
+   (`coches-electricos` / `recarga` / `coste-y-ayudas`), no artículo a
+   artículo — ahorra búsquedas repetidas y da cifras consistentes entre
+   artículos hermanos. Escribe con `[VERIFICAR]` liberal en vez de forzar
+   una cifra dudosa para "no dejarlo feo".
+2. **Pasada de resolución** (antes de pasar al editor humano): vuelve a
+   investigar cada `[VERIFICAR]` con una búsqueda dirigida a esa pregunta
+   concreta. Resuelve solo los que sean un hecho fijo y comprobable (ley,
+   norma, programa oficial, estadística publicada) y cítalo. Deja intactos
+   los que dependen genuinamente del lector (su modelo, su municipio, su
+   tarifa, su comunidad autónoma) — no fuerces ahí una respuesta genérica,
+   es correcto que sigan como VERIFICAR.
+
+**Cuidado con la volatilidad regulatoria**: el Plan Auto+/MOVES, las
+bonificaciones autonómicas y la deducción del IRPF cambian con frecuencia y
+a veces las fuentes se contradicen entre sí en cuestión de semanas (ejemplo
+real: la deducción IRPF del 15%, que Hacienda confirmó en diciembre de 2025
+y el Congreso tumbó en enero de 2026). Si las fuentes no coinciden en un
+hecho oficial o legal, no promedies ni elijas la que más te convenza: añade
+un aviso explícito al inicio del artículo y enlaza a la fuente oficial
+primaria (mintur.gob.es, IDAE, Agencia Tributaria) en vez de presentarlo
+como un hecho asentado.

@@ -97,7 +97,32 @@ draft: true   # siempre true al generar
 - [ ] Title sin clickbait falso.
 - [ ] Primer tag = categoría válida.
 
-## 9. Mantenimiento (invariante)
+## 9. Generación a escala y pase de resolución de VERIFICAR (invariante)
+
+Al generar un cluster grande (10+ artículos), sigue dos pasadas separadas
+en vez de intentar cerrar cada artículo de una vez:
+
+1. **Pasada de redacción**: investiga por lotes agrupados por categoría, no
+   artículo a artículo — ahorra búsquedas repetidas y da cifras consistentes
+   entre artículos hermanos. Escribe con `[VERIFICAR]` liberal en vez de
+   forzar una cifra dudosa para "no dejarlo feo".
+2. **Pasada de resolución** (antes de pasar al editor humano): vuelve a
+   investigar cada `[VERIFICAR]` con una búsqueda dirigida a esa pregunta
+   concreta. Resuelve solo los que sean un hecho fijo y comprobable (ley,
+   norma, programa oficial, estadística publicada) y cítalo. Deja intactos
+   los que dependen genuinamente del lector (su modelo, su municipio, su
+   tarifa, su comunidad autónoma) — no fuerces ahí una respuesta genérica,
+   es correcto que sigan como VERIFICAR.
+
+**Cuidado con la volatilidad regulatoria**: en ayudas y fiscalidad, las
+fuentes pueden contradecirse entre sí en cuestión de semanas (ejemplo real:
+una deducción fiscal que Hacienda confirmó en diciembre y el Congreso tumbó
+en enero siguiente). Si las fuentes no coinciden en un hecho oficial o
+legal, no promedies ni elijas la que más te convenza: añade un aviso
+explícito al inicio del artículo y enlaza a la fuente oficial primaria, en
+vez de presentarlo como un hecho asentado.
+
+## 10. Mantenimiento (invariante)
 
 - Artículos de ayudas/precios/convocatorias: revisión cada 3-4 meses,
   añadir `updatedDate` al frontmatter en cada revisión.

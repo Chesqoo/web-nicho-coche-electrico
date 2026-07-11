@@ -82,6 +82,12 @@ via `@fontsource` (no Google Fonts CDN call): Fraunces (serif, `var(--serif)`) f
 Public Sans (`var(--sans)`) for body text. When adding new components, reuse these variables instead
 of hardcoding colors/radius/fonts.
 
+**The accent color is NOT fully centralized**: [public/favicon.svg](public/favicon.svg) and
+[public/og-default.svg](public/og-default.svg) each hardcode their own hex copy of `--acento` (SVG
+files can't reference another file's CSS custom properties). A color-scheme change means updating
+all three places by hand — `Base.astro`'s `:root`, `favicon.svg`, and `og-default.svg` — or the
+favicon/OG image will silently keep the old color after the rest of the site has changed.
+
 **Layout hierarchy**: the homepage ([src/pages/index.astro](src/pages/index.astro)) is intentionally
 not a uniform grid — it renders one featured post via
 [src/components/FeaturedPost.astro](src/components/FeaturedPost.astro) above the regular
@@ -93,6 +99,13 @@ not a uniform grid — it renders one featured post via
 (`index.astro`, `categoria/[cat].astro`, `[...slug].astro`) filters posts with
 `import.meta.env.PROD ? !data.draft : true` — drafts are visible in `npm run dev` but excluded from
 production builds. Any new page listing posts must repeat this same filter.
+
+**`npm run build` doesn't verify draft content**: because drafts are excluded from the PROD build,
+a green `npm run build` after adding a batch of draft articles only proves the site *compiles* — it
+says nothing about whether those articles render, their internal links resolve, or their frontmatter
+is sane. Verify a new batch of drafts with `npm run dev` (drafts render there) plus a quick internal-link
+cross-check (`grep -ohE ']\(/[a-z0-9-]+/\)' src/content/blog/*.md` against `ls src/content/blog/`) before
+considering the batch done.
 
 **Routing**:
 - `/` → [src/pages/index.astro](src/pages/index.astro) — hero + all posts grid.
