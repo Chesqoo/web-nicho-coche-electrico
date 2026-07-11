@@ -3,7 +3,7 @@ title: "Qué mirar antes de comprar un coche eléctrico: checklist completa"
 description: "Los puntos que de verdad importan antes de comprar un eléctrico: autonomía, carga, batería, ayudas y coste total. Checklist con enlaces a cada tema."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 destacado: false
 ---
 

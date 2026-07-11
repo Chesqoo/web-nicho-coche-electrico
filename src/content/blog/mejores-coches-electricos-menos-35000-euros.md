@@ -3,12 +3,12 @@ title: "Mejores coches eléctricos por menos de 35.000 € (2026)"
 description: "Comparativa de coches eléctricos por debajo de 35.000 € con autonomía real, precio con y sin ayudas, para elegir según tu uso."
 pubDate: 2026-07-08
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Por debajo de 35.000 € hay ya varios eléctricos con autonomía suficiente para el uso diario de la mayoría de conductores en España (más de 300 km WLTP), y con el Plan Auto+ el precio efectivo de varios de ellos baja de los 30.000 €. La elección depende sobre todo de si haces autopista con regularidad o el coche es principalmente urbano.
 
-`[VERIFICAR: precios exactos y disponibilidad a fecha de lectura — el mercado de eléctricos cambia de mes a mes con nuevas versiones y descuentos de fabricante]`.
+El mercado de eléctricos cambia de mes a mes con nuevas versiones y descuentos de fabricante, así que confirma precios y disponibilidad exactos en la configuradora oficial en el momento de comprar.
 
 ## Comparativa rápida
 
@@ -21,7 +21,7 @@ Por debajo de 35.000 € hay ya varios eléctricos con autonomía suficiente par
 | Citroën ë-C4 | ~350 km | Tope alto de la horquilla según equipamiento | Confort, más espacio |
 | Dacia Spring | ~220-230 km | Desde ~20.000 € | La opción más barata, uso urbano puro |
 
-`[VERIFICAR: cifras exactas de autonomía y precio con la configuradora oficial de cada fabricante en la fecha de compra; los precios de tabla son orientativos a mediados de 2026]`.
+Los precios de la tabla son orientativos a mediados de 2026 — confirma las cifras exactas de autonomía y precio en la configuradora oficial de cada fabricante en la fecha de compra.
 
 ## Cómo elegir según tu uso
 
@@ -31,7 +31,7 @@ Por debajo de 35.000 € hay ya varios eléctricos con autonomía suficiente par
 
 ## Precio con ayudas: cuánto baja de verdad
 
-Con el Plan Auto+ (hasta 4.500 € para particulares, si el modelo cumple los requisitos de precio máximo) y la exención del impuesto de matriculación, varios de estos modelos pueden quedar entre 5.000 € y 7.000 € por debajo de su precio de tarifa `[VERIFICAR: simulación con tu comunidad autónoma y el modelo/acabado exacto — no todos los acabados de un mismo modelo entran dentro del límite de precio de la ayuda]`. El funcionamiento completo de esta ayuda está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/).
+Con el Plan Auto+ (hasta 4.500 € para particulares, si el modelo cumple los requisitos de precio máximo) y la exención del impuesto de matriculación, varios de estos modelos pueden quedar entre 5.000 € y 7.000 € por debajo de su precio de tarifa — ojo, no todos los acabados de un mismo modelo entran dentro del límite de precio de la ayuda, así que confírmalo con el acabado exacto y tu comunidad autónoma antes de contar con esa rebaja. El funcionamiento completo de esta ayuda está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/).
 
 ## Lo que no dice la ficha técnica
 
@@ -58,4 +58,3 @@ No, son precios de tarifa antes de ayudas. Descuenta la ayuda que te corresponda
 - [Mejores coches eléctricos por menos de 35.000 euros — DrivingEco](https://www.drivingeco.com/mejores-coches-electricos-menos-35000-euros-espana/)
 - [Coches eléctricos por menos de 35.000 euros con Plan Auto+ — Carwow](https://www.carwow.es/coches-electricos/menos-35000-euros)
 - [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
-- `[VERIFICAR: ficha técnica y precio oficial de cada fabricante en la fecha de publicación]`

@@ -3,7 +3,7 @@ title: "Ayudas autonómicas para coche eléctrico: cómo encontrar las de tu CCA
 description: "Además del Plan Auto+ estatal, varias comunidades autónomas tienen sus propios planes de ayudas al coche eléctrico, compatibles entre sí. Cómo buscarlas."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Además del Plan Auto+ estatal (hasta 4.500 € para particulares), varias comunidades autónomas tienen sus propios planes de ayuda a la compra de coche eléctrico, normalmente compatibles y acumulables con el estatal. No todas las CCAA tienen programa propio activo en cada momento, así que hay que comprobarlo caso por caso — hemos verificado algunos ejemplos, pero la situación cambia con frecuencia.
@@ -14,7 +14,7 @@ Además del Plan Auto+ estatal (hasta 4.500 € para particulares), varias comun
 - **Navarra**: Plan Tximista Auto 2026, con incentivos que pueden llegar a 5.500 € según el vehículo.
 - **Cataluña, Andalucía, Castilla y León y País Vasco**: cuentan con programas propios de distinta dotación presupuestaria y condiciones.
 
-`[VERIFICAR: estado y dotación actual del programa de tu comunidad concreta — estos planes abren y cierran convocatoria varias veces al año y las cuantías cambian]`.
+Estos planes abren y cierran convocatoria varias veces al año y las cuantías cambian, así que confirma el estado y la dotación actual del programa de tu comunidad antes de contar con él.
 
 ## Cómo buscar la ayuda de tu comunidad
 
@@ -29,7 +29,7 @@ A diferencia del Plan Auto+ (gestionado de forma centralizada por IDAE y el Mini
 
 ## Cómo se combinan todas las ayudas
 
-Ayuda autonómica + Plan Auto+ + deducción del IRPF son, en la mayoría de casos, compatibles entre sí porque cada una tiene un origen distinto (fondos autonómicos, fondos estatales, beneficio fiscal). El resumen general del Plan Auto+ está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/), y el de la deducción fiscal en [deducción IRPF por comprar un eléctrico](/deduccion-irpf-coche-electrico-punto-recarga/). Con todo sumado, el ahorro real puede superar los 6.000-8.000 € en algunas comunidades `[VERIFICAR: simulación con tu caso y tu comunidad concretos]` — un factor importante en la cuenta completa de [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/)
+Ayuda autonómica + Plan Auto+ + deducción del IRPF son, en la mayoría de casos, compatibles entre sí porque cada una tiene un origen distinto (fondos autonómicos, fondos estatales, beneficio fiscal). El resumen general del Plan Auto+ está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/), y el de la deducción fiscal en [deducción IRPF por comprar un eléctrico](/deduccion-irpf-coche-electrico-punto-recarga/). Con todo sumado, el ahorro real puede superar los 6.000-8.000 € en las comunidades con programa propio más generoso, aunque la cifra exacta depende de tu caso y de qué ayudas consigas combinar — un factor importante en la cuenta completa de [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/)
 
 ## Preguntas frecuentes
 
@@ -46,4 +46,3 @@ Algunas comunidades sí incluyen líneas específicas para wallbox además del v
 
 - [Ayudas coche eléctrico 2026 por Comunidades: Auto+, IRPF y extras autonómicos — Fundación AVATA](https://fundacionavata.org/blog/ayudas-coche-electrico-2026-por-comunidades/)
 - [Ayudas coche eléctrico e híbrido 2026: Guía por Comunidad Autónoma — RACE](https://www.race.es/ayudas-compra-vehiculos-electricos)
-- `[VERIFICAR: portal oficial de tu comunidad autónoma para la convocatoria vigente]`

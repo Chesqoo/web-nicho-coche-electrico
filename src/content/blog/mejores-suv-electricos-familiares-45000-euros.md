@@ -3,12 +3,12 @@ title: "Mejores SUV eléctricos familiares por menos de 45.000 € (2026)"
 description: "Comparativa de SUV eléctricos familiares por debajo de 45.000 €: autonomía real, espacio y qué exigir a este segmento antes de comprar."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Por debajo de 45.000 € hay ya SUV eléctricos familiares con autonomías homologadas de 400-600 km WLTP, espacio real para cuatro o cinco personas y equipamiento completo de serie. Es el segmento donde más ha bajado el precio de entrada en los últimos años, y donde el Plan Auto+ tiene más impacto proporcional al tratarse de coches de precio medio-alto.
 
-`[VERIFICAR: precios y disponibilidad a fecha de lectura, este segmento cambia de mes a mes con nuevas versiones]`.
+Este segmento cambia de mes a mes con nuevas versiones, así que confirma precios y disponibilidad a la fecha en que leas esto.
 
 ## Comparativa rápida
 
@@ -19,7 +19,7 @@ Por debajo de 45.000 € hay ya SUV eléctricos familiares con autonomías homol
 | Ford Explorer EV | Hasta ~602 km | ~38.500-42.000 € | Espacio familiar y autonomía |
 | Skoda Enyaq iV | 400-550 km según versión | Tope alto de la horquilla | Maletero y espacio trasero |
 
-`[VERIFICAR: cifras exactas de autonomía y precio en la configuradora oficial de cada fabricante en la fecha de compra]`.
+Confirma las cifras exactas de autonomía y precio en la configuradora oficial de cada fabricante en la fecha de compra.
 
 ## Qué exigir a un SUV familiar en este rango de precio
 
@@ -31,7 +31,7 @@ Por debajo de 45.000 € hay ya SUV eléctricos familiares con autonomías homol
 
 ## Con las ayudas, el precio real baja bastante
 
-Con el Plan Auto+ (hasta 4.500 € para particulares) y la deducción del IRPF (hasta 3.000 €), un SUV de 38.000-40.000 € de tarifa puede quedar en la práctica varios miles de euros por debajo — el detalle está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/) y [deducción IRPF por comprar un eléctrico](/deduccion-irpf-coche-electrico-punto-recarga/). `[VERIFICAR: simulación con el modelo/acabado exacto, no todos entran dentro del límite de precio de la ayuda]`.
+Con el Plan Auto+ (hasta 4.500 € para particulares) y la deducción del IRPF (hasta 3.000 €), un SUV de 38.000-40.000 € de tarifa puede quedar en la práctica varios miles de euros por debajo — el detalle está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/) y [deducción IRPF por comprar un eléctrico](/deduccion-irpf-coche-electrico-punto-recarga/). No todos los acabados entran dentro del límite de precio de la ayuda, así que compruébalo con el modelo/acabado exacto antes de contar con ella.
 
 ## SUV familiar vs. compacto: cuándo compensa pagar más
 
@@ -52,4 +52,3 @@ No, varía por fabricante entre 8 y 10 años o entre 150.000 y 200.000 km según
 
 - [Los mejores coches eléctricos por menos de 40.000 euros en 2026 — ¿Qué coche me compro?](https://www.quecochemecompro.com/guias-de-compra/coches-electricos-menos-40000-euros/)
 - [Cómo elegir un SUV eléctrico por menos de 40.000 euros en 2026 — HighMotor](https://www.highmotor.com/como-elegir-un-suv-electrico-por-menos-de-40-000-euros-en-2026-autonomia-real.html)
-- `[VERIFICAR: ficha técnica y precio oficial de cada fabricante en la fecha de publicación]`

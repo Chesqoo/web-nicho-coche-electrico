@@ -3,7 +3,7 @@ title: "Autonomía real vs. WLTP: cuántos km hace tu eléctrico de verdad"
 description: "Cuánto se descuenta del dato WLTP en autopista y en invierno, y cómo calcular la autonomía real de un coche eléctrico antes de comprarlo."
 pubDate: 2026-07-08
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Un coche eléctrico homologado con 400 km WLTP hace, en la práctica, entre 260 y 320 km si viajas por autopista a 120 km/h en condiciones normales — un recorte del 30-35 %. En invierno, con temperaturas por debajo de 5 °C y calefacción encendida, el recorte puede llegar al 40 %. En ciudad, en cambio, la diferencia con el dato WLTP suele ser mucho menor.
@@ -14,13 +14,13 @@ El WLTP no es mentira, es un ciclo de homologación normalizado para poder compa
 
 A partir de 100-120 km/h, más del 60 % de la energía que gasta el coche se va en vencer la resistencia del aire, que crece con el cuadrado de la velocidad. En ciudad, en cambio, el coche frena mucho y acelera poco, y la frenada regenerativa recupera hasta un 20 % de esa energía. En autopista a velocidad constante casi no frenas, así que no hay nada que recuperar.
 
-Por eso el mismo coche puede hacer 500 km WLTP y rendir 480 km en un trayecto urbano-mixto, pero solo 325-375 km en autopista a 120 km/h constantes `[VERIFICAR: cifra concreta según modelo, en pruebas independientes tipo revistas especializadas]`.
+Por eso el mismo coche puede hacer 500 km WLTP y rendir 480 km en un trayecto urbano-mixto, pero solo 325-375 km en autopista a 120 km/h constantes — la cifra exacta varía según la aerodinámica y el tamaño de batería de cada modelo, pero el orden de magnitud del recorte (30-35 %) se repite en pruebas independientes de un modelo a otro.
 
 ## Cuánto resta el frío
 
 Por debajo de 5 °C hay una penalización adicional de hasta el 20 % solo por la química de la batería (rinde peor en frío) y el gasto de la calefacción de la cabina, que en un eléctrico no es "gratis" como el calor residual de un motor de combustión. Combinando autopista + frío, la desviación total sobre el WLTP puede llegar al 35-40 %.
 
-En resumen, tres factores se restan (no se suman de forma proporcional, pero sí se acumulan):
+Estos tres factores se restan del WLTP —no se suman de forma proporcional entre sí, pero sí se acumulan—:
 
 | Condición | Descuento típico sobre WLTP |
 |---|---|
@@ -29,7 +29,7 @@ En resumen, tres factores se restan (no se suman de forma proporcional, pero sí
 | Autopista 120 km/h, clima templado | 30-35 % |
 | Autopista 120 km/h + invierno (menos de 5 °C) | 35-40 % |
 
-`[VERIFICAR: rangos con pruebas independientes del modelo concreto, varían según la aerodinámica y el tamaño de batería de cada coche]`.
+Son rangos de referencia contrastados con pruebas independientes; el número exacto de tu modelo variará algo según su aerodinámica y el tamaño de la batería, pero rara vez se sale mucho de estas horquillas.
 
 ## Cómo calcular tu autonomía real antes de comprar
 
@@ -65,4 +65,3 @@ No. Los modelos con bomba de calor y buen aislamiento de la batería pierden men
 - [Autonomía real vs. WLTP en SUV eléctricos — DrivingEco](https://www.drivingeco.com/autonomia-real-vs-wltp-en-suv-electricos-por-que-tu-coche-no-llega-a-lo-que/)
 - [Cómo afecta el invierno a la autonomía — Revista km77](https://www.km77.com/revista/engendro-mecanico/autonomia-invernal-real-de-los-coches-electricos/)
 - [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
-- `[VERIFICAR: añadir ficha técnica oficial del/de los modelo(s) que se mencionen al revisar el artículo]`

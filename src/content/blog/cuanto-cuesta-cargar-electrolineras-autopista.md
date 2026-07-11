@@ -3,7 +3,7 @@ title: "Cuánto cuesta cargar en electrolineras de autopista frente a casa"
 description: "Cargar en autopista puede costar hasta 10 veces más que en casa. Precios reales por red y cómo planificar un viaje sin disparar el gasto."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 Recargar en una electrolinera de autopista cuesta, a mediados de 2026, entre 0,25 €/kWh (semirrápida) y más de 0,79 €/kWh (ultrarrápida sin suscripción) — frente a los 0,08-0,12 €/kWh de cargar en casa en tarifa valle. En números redondos, una carga completa que en casa cuesta 3-4 € puede superar los 30 € en un cargador ultrarrápido de autopista: hasta 10 veces más cara.
@@ -19,7 +19,7 @@ Recargar en una electrolinera de autopista cuesta, a mediados de 2026, entre 0,2
 | Ionity (sin suscripción) | ~0,79 €/kWh |
 | Ionity (con suscripción) | ~0,35 €/kWh |
 
-`[VERIFICAR: precios vigentes en el momento de tu viaje, cambian con el mercado eléctrico y las promociones de cada red]`.
+Estos precios cambian con el mercado eléctrico y las promociones de cada red, así que tómalos como referencia y confirma el precio vigente en la app de la red antes de tu viaje.
 
 ## Por qué es tanto más caro que cargar en casa
 

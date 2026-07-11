@@ -3,7 +3,7 @@ title: "Cómo funciona un coche eléctrico: motor, batería y frenada"
 description: "Motor eléctrico, batería y frenada regenerativa explicados sin tecnicismos: cómo se mueve un coche eléctrico y por qué recupera energía al frenar."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Un coche eléctrico se mueve con un motor eléctrico alimentado por una batería, sin caja de cambios tradicional ni combustión: la batería envía corriente al motor, el motor gira las ruedas, y cuando levantas el pie del acelerador o frenas, el proceso se invierte y el motor actúa como generador, devolviendo parte de esa energía a la batería. No hace falta entender de electrónica para conducir uno, pero entender estas tres piezas ayuda a explicar casi todo lo demás: por qué la autonomía varía, por qué frena distinto y por qué apenas necesita mantenimiento.

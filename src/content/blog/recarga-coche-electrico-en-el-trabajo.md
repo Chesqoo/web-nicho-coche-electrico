@@ -3,7 +3,7 @@ title: "Recarga en el trabajo: qué preguntar a tu empresa"
 description: "Muchas empresas están obligadas a tener puntos de recarga. Qué preguntar a RRHH, cómo funciona el trámite y qué ventajas fiscales existen."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 Si tu empresa tiene un aparcamiento de más de 20 plazas, es posible que ya esté obligada por ley a tener al menos un punto de recarga: el Real Decreto-ley 29/2021 exige que, desde el 1 de enero de 2023, todo aparcamiento de uso no residencial con más de 20 plazas tenga una estación de recarga por cada 40 plazas (o fracción) hasta las 1.000 plazas, y una más por cada 100 plazas adicionales a partir de ahí. Vale la pena preguntar en RRHH o a mantenimiento del edificio antes de asumir que tienes que resolverlo tú solo en casa.
@@ -21,7 +21,7 @@ Cargar mientras trabajas 7-8 horas es, en la práctica, tan cómodo como cargar 
 
 ## Ventajas fiscales para la empresa (por si tu empresa no lo sabe)
 
-Si tu empresa se está planteando instalar puntos de recarga, existen ayudas específicas del Plan Auto+ y líneas MOVES para empresas y autónomos, además de que ofrecer recarga a empleados puede formar parte de su estrategia de retribución flexible. El detalle de las ayudas generales está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/). `[VERIFICAR: tratamiento fiscal exacto de la recarga gratuita como retribución en especie, consulta con el departamento fiscal de la empresa]`.
+Si tu empresa se está planteando instalar puntos de recarga, el Plan Auto+ vigente en 2026 no incluye ninguna ayuda para el cargador (solo para el vehículo) — el detalle de qué sí cubre está en [Plan Auto+ (antes MOVES): ayudas para coche eléctrico](/plan-moves-ayudas-coche-electrico/). Sí puede compensarle fiscalmente ofrecer la recarga como parte de un paquete de retribución flexible: la Agencia Tributaria considera la energía de recarga que paga la empresa una retribución en especie (igual que el combustible de un coche de empresa), así que debería reflejarse en la nómina del empleado, aunque los vehículos eléctricos o híbridos enchufables de valor de mercado inferior a 40.000 € tienen una reducción del 30 % en la valoración de esa retribución en especie frente a un coche de combustión — coméntalo con el departamento fiscal de la empresa para aplicarlo bien en cada caso.
 
 ## Requisitos técnicos que debe cumplir la instalación
 
@@ -47,3 +47,4 @@ Puede considerarse retribución en especie según cómo lo estructure la empresa
 - [Real Decreto-ley 29/2021, de 21 de diciembre — texto en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21096)
 - [¿En qué aparcamientos son obligatorios los puntos de recarga? — Repsol](https://www.repsol.es/autonomos-y-empresas/asesoramiento/instalacion-obligatoria-de-cargadores-electricos-en-aparcamientos/)
 - [Normativa instalación puntos de carga de vehículos eléctricos en empresas — Cad&Lan](https://www.cadlan.com/noticias/normativa-recarga-vehiculos-electricos/)
+- [Agencia Tributaria: entrega o utilización de vehículos automóviles (retribución en especie)](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimientos-trabajo-especie/computo-rendimientos-trabajo-especie/reglas-especiales/entrega-utilizacion-vehiculos-automoviles.html)

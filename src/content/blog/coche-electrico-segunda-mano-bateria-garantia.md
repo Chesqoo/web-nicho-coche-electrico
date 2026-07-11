@@ -3,7 +3,7 @@ title: "Coche eléctrico de segunda mano: qué mirar (batería y garantía)"
 description: "SoH de la batería, garantía del fabricante y riesgos al comprar un eléctrico de segunda mano en España: qué pedir antes de firmar."
 pubDate: 2026-07-08
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Al comprar un eléctrico de segunda mano, lo primero que hay que revisar no es el kilometraje ni el estado de la carrocería: es el **SoH (State of Health)** de la batería, el porcentaje de capacidad que conserva respecto a cuando salió de fábrica. Un SoH entre el 80 % y el 100 % se considera saludable; por debajo del 75-70 % la autonomía ya se nota claramente reducida, aunque el coche siga siendo utilizable en ciudad.
@@ -18,11 +18,11 @@ Todas las baterías de iones de litio pierden capacidad con el tiempo y el uso, 
 - **Si compras a un particular**, puedes llevar el coche a un taller oficial de la marca para que emita un informe, o usar un lector OBD-II con una app compatible (un dispositivo de unos 15 € que se conecta al puerto de diagnóstico del coche) para leer el SoH tú mismo antes de decidir.
 - Pide también el **histórico de cargas rápidas** si el sistema del coche o la app del fabricante lo permite consultar: un uso muy intensivo de carga rápida acelera el desgaste de la batería.
 
-`[VERIFICAR: apps y lectores OBD-II compatibles con el modelo concreto que estés mirando, no todos funcionan igual en todas las marcas]`.
+No todos los lectores OBD-II ni todas las apps funcionan igual de bien en todas las marcas, así que antes de comprar uno confirma que sea compatible con el modelo concreto que estás mirando.
 
 ## La garantía del fabricante: qué cubre y desde cuándo cuenta
 
-La mayoría de fabricantes garantizan la batería durante unos 8 años o 160.000 km (algunos algo más), cubriendo que no baje de un mínimo de capacidad (habitualmente en torno al 70 %) durante ese periodo `[VERIFICAR: condiciones exactas del fabricante y modelo concretos — plazo, km y porcentaje mínimo garantizado varían entre marcas]`. Dos detalles importantes:
+La mayoría de fabricantes garantizan la batería durante unos 8 años o 160.000 km (algunos algo más), cubriendo que no baje de un mínimo de capacidad (habitualmente en torno al 70 %) durante ese periodo — el plazo, los km y el porcentaje mínimo exactos varían de una marca a otra, así que confírmalos en la ficha de garantía del fabricante del modelo concreto que te interese. Dos detalles importantes:
 
 - **La garantía se cuenta desde la primera matriculación**, no desde que tú compras el coche de segunda mano. Un coche de 5 años con garantía de 8 le quedan 3, no 8.
 - **Normalmente es transferible al segundo propietario**, pero conviene pedir por escrito al vendedor o al concesionario que confirme que sigue vigente y en qué condiciones, antes de firmar.

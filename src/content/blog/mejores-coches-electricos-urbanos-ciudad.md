@@ -3,7 +3,7 @@ title: "Mejores coches eléctricos urbanos y pequeños para ciudad (2026)"
 description: "Los eléctricos más baratos y prácticos para uso urbano en 2026: precio, autonomía real para ciudad y cuándo un urbano pequeño es suficiente."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Si tu coche va a ser sobre todo urbano (menos de 40 km al día, poca o ninguna autopista), no necesitas la batería más grande del mercado: los urbanos eléctricos más pequeños ya cubren de sobra ese uso, cuestan varios miles de euros menos que un compacto grande, y con las ayudas del Plan Auto+ algunos bajan de los 15.000-20.000 € reales.
@@ -19,7 +19,7 @@ Si tu coche va a ser sobre todo urbano (menos de 40 km al día, poca o ninguna a
 | Renault 5 E-Tech | ~410 km (versión grande) | ~25.000-33.000 € según batería | Más autonomía si algún día sales de ciudad |
 | Citroën AMI | Muy limitada, diseño exclusivo urbano | El más barato de todos, otra categoría de vehículo | Ciudad pura, conducible desde los 15 años en su categoría |
 
-`[VERIFICAR: precios y disponibilidad exactos en la configuradora de cada fabricante, cambian con frecuencia]`.
+Los precios y la disponibilidad cambian con frecuencia — confírmalos en la configuradora de cada fabricante antes de decidir.
 
 ## Por qué no necesitas más autonomía de la que vas a usar
 
@@ -51,4 +51,3 @@ La mayoría sí, al ser de los más económicos del mercado — el detalle de cu
 - [Guía de compra: cómo elegir el mejor coche eléctrico urbano en 2026 — DrivingEco](https://www.drivingeco.com/guia-de-compra-como-elegir-el-mejor-coche-electrico-urbano-en-2026-segun-tamano/)
 - [TOP coches eléctricos pequeños baratos de 2026 — Emovili](https://emovili.com/blog/coche-electrico-pequeno-barato/)
 - [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
-- `[VERIFICAR: ficha técnica y precio oficial de cada fabricante en la fecha de publicación]`

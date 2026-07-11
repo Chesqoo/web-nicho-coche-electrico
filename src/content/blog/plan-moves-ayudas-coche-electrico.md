@@ -3,7 +3,7 @@ title: "Plan Auto+ (antes MOVES): ayudas para coche eléctrico en 2026"
 description: "Cuánto dan las ayudas al coche eléctrico en 2026, quién puede pedirlas y cómo se tramitan tras el cambio de MOVES III a Plan Auto+."
 pubDate: 2026-07-08
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 **Aviso importante:** este es un programa de ayudas en transición y con presupuesto limitado. El histórico Plan MOVES III dejó de admitir solicitudes nuevas y ha sido sustituido por el **Plan Auto+**, aprobado el 3 de febrero de 2026 y con carácter retroactivo desde el 1 de enero de 2026. A mediados de junio de 2026 ya se había comprometido más de la mitad de su presupuesto, con riesgo real de agotarse antes de final de año. Verifica siempre el estado de la convocatoria en el [portal oficial del Ministerio](https://www.mintur.gob.es/es-es/programa-auto/) o en [IDAE](https://ayudasenergiaidae.es/) antes de comprar contando con la ayuda: las cuantías y la disponibilidad de fondos pueden haber cambiado desde que se publicó este artículo.
@@ -39,15 +39,15 @@ Además, esta ayuda directa es compatible con la deducción del 15 % en el IRPF 
 - El vehículo debe tener **distintivo ambiental CERO** de la DGT (100 % eléctrico o pila de combustible).
 - Precio del vehículo por debajo de los límites máximos establecidos para su categoría — los coches más caros quedan fuera aunque sean eléctricos.
 - Límite de una ayuda por beneficiario particular (hasta 3 para autónomos, hasta 10 para empresas).
-- Suele exigirse mantener la titularidad del vehículo un periodo mínimo antes de poder venderlo sin perder la ayuda `[VERIFICAR: plazo exacto de permanencia en la convocatoria vigente]`.
+- Debes mantener la titularidad del vehículo un mínimo de 2 años desde la compra; si lo vendes antes, tienes que comunicarlo al órgano que concedió la ayuda (puede implicar devolverla). No es una ayuda pensada para operaciones rápidas de reventa.
 
-## Ayuda para el punto de recarga doméstico
+## Ayuda para el punto de recarga doméstico: ya no está aquí
 
-Aparte de la ayuda al vehículo, existe una línea específica para financiar la instalación de un wallbox en casa, con porcentajes de subvención que pueden llegar al 70-80 % del coste subvencionable según el municipio. El detalle de precios y esta ayuda concreta está en [wallbox en casa: qué necesitas, precio e instalación](/wallbox-casa-precio-instalacion/).
+A diferencia del antiguo Plan MOVES III, que sí subvencionaba hasta el 70-80 % de la instalación de un wallbox, el **Plan Auto+ no incluye ninguna línea para el punto de recarga doméstico** — financia solo el vehículo. Lo único que sigue disponible para el cargador es la deducción del 15 % en el IRPF (hasta 600 € de ahorro fiscal) y, en algunas comunidades, una ayuda autonómica propia. El detalle de precios del wallbox y de esta situación está en [wallbox en casa: qué necesitas, precio e instalación](/wallbox-casa-precio-instalacion/).
 
 ## Cómo se pide
 
-Con el Plan Auto+, la novedad es que en muchos casos **no tienes que pedir tú la ayuda por tu cuenta**: el concesionario, si está adherido al programa, aplica el descuento directamente en la factura de compra, de forma parecida a como funciona el "Plan Renove" en otros sectores. Antes de firmar, pregunta explícitamente al concesionario si el precio ya incluye el descuento del Plan Auto+ o si tendrás que tramitarlo tú aparte ante tu comunidad autónoma. `[VERIFICAR: procedimiento exacto en tu comunidad autónoma, la gestión puede variar]`.
+Con el Plan Auto+, la novedad es que en muchos casos **no tienes que pedir tú la ayuda por tu cuenta**: el concesionario, si está adherido al programa, aplica el descuento directamente en la factura de compra, de forma parecida a como funciona el "Plan Renove" en otros sectores. Antes de firmar, pregunta explícitamente al concesionario si el precio ya incluye el descuento del Plan Auto+ o si tendrás que tramitarlo tú aparte — no todos los concesionarios están adheridos, y la gestión puede variar según dónde compres.
 
 ## Otras ayudas que se acumulan (no dependen del Plan Auto+)
 
@@ -55,7 +55,7 @@ Con el Plan Auto+, la novedad es que en muchos casos **no tienes que pedir tú l
 - **Bonificación en el IVTM** (impuesto de circulación) con el distintivo CERO — el porcentaje lo fija cada ayuntamiento, no es uniforme en toda España.
 - **Deducción del 15 % en IRPF** por la instalación del punto de recarga doméstico (hasta 4.000 € de base).
 
-Con todo sumado, en el mejor de los casos la rebaja efectiva sobre un coche de 30.000-33.000 € puede superar los 5.000-6.000 € entre ayuda directa y ventajas fiscales `[VERIFICAR: simulación con tu caso concreto, no todos los conceptos son compatibles entre sí ni aplican igual en todas las CCAA]`. Puedes ver cómo encaja esto en la cuenta completa de compra en [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/) y comparar modelos concretos que suelen encajar bien en los límites de precio del programa en [mejores coches eléctricos por menos de 35.000 €](/mejores-coches-electricos-menos-35000-euros/).
+Con todo sumado, en el mejor de los casos la rebaja efectiva sobre un coche de 30.000-33.000 € puede superar los 5.000-6.000 € entre ayuda directa y ventajas fiscales, aunque la cifra exacta depende de tu comunidad autónoma y de qué conceptos apliques — no todos son compatibles entre sí en todos los casos. Puedes ver cómo encaja esto en la cuenta completa de compra en [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/) y comparar modelos concretos que suelen encajar bien en los límites de precio del programa en [mejores coches eléctricos por menos de 35.000 €](/mejores-coches-electricos-menos-35000-euros/).
 
 ## Preguntas frecuentes
 
@@ -74,3 +74,5 @@ Sí, pero con requisitos y cuantía menor: necesitan distintivo CERO (más de 40
 - [Preguntas frecuentes (Q&A) oficiales del Plan Auto+ — Ministerio de Industria y Turismo (PDF)](https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2026/documents/q&a%20plan%20auto+.pdf)
 - [Portal de Ayudas Energía IDAE — MOVES III](https://ayudasenergiaidae.es/moves-iii/)
 - [El Plan Auto+ abrirá en julio con más de la mitad del presupuesto ya comprometido — Motor.es](https://www.motor.es/noticias/plan-auto-plus-apertura-julio-ayudas-coche-electrico-2026114867.html)
+- [¿Durante cuánto tiempo hay que mantener en propiedad un coche con ayuda pública? — Ganvam](https://ganvam.es/durante-cuanto-tiempo-se-debe-mantener-en-propiedad-un-coche-que-haya-recibido-la-ayuda-del-plan-moves-iii/)
+- [Plan Auto+ 2026: ¿paga tu cargador? La deducción que sí — Smartwallboxes](https://www.smartwallboxes.com/plan-auto-mas-2026-cargador/)

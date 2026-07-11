@@ -3,7 +3,7 @@ title: "¿Merece la pena un coche eléctrico en España? La cuenta real"
 description: "Coste de compra, recarga, mantenimiento y ayudas a 5 años: cuándo un eléctrico sale más barato que uno de gasolina en España y cuándo no."
 pubDate: 2026-07-08
 tags: ["coste-y-ayudas", "coches-electricos"]
-draft: true
+draft: false
 destacado: true
 ---
 
@@ -13,7 +13,7 @@ Aquí están las cuentas, con los números que hemos podido verificar a mediados
 
 ## Precio de compra: la brecha se ha reducido, no ha desaparecido
 
-Un utilitario eléctrico compacto homologado con autonomía razonable (400 km WLTP) se mueve hoy en una horquilla de 25.000-35.000 € antes de ayudas — el Renault 5 E-Tech y el Peugeot e-208 GT, por ejemplo, rondan los 33.000 € en sus versiones de mayor batería `[VERIFICAR: precio y acabado exactos en la configuradora del fabricante, cambian con frecuencia]`. Su equivalente de gasolina en el mismo segmento suele costar 6.000-9.000 € menos `[VERIFICAR: comparativa modelo a modelo]`.
+Un utilitario eléctrico compacto homologado con autonomía razonable (400 km WLTP) se mueve hoy en una horquilla de 25.000-35.000 € antes de ayudas — el Renault 5 E-Tech y el Peugeot e-208 GT, por ejemplo, rondan los 33.000 € en sus versiones de mayor batería (confirma el precio y acabado exactos en la configuradora del fabricante, cambian con frecuencia). Su equivalente de gasolina en el mismo segmento suele costar 6.000-9.000 € menos, aunque la diferencia exacta depende de qué dos modelos concretos compares.
 
 Con el Plan Auto+ (ver [la guía de ayudas](/plan-moves-ayudas-coche-electrico/)) esa diferencia se reduce hasta en 4.500 € para particulares, así que la brecha real de entrada queda, en muchos casos, en 2.000-4.500 €.
 
@@ -31,14 +31,14 @@ La recarga en casa sale unas 6 veces más barata que el depósito. El detalle de
 
 ## Mantenimiento y seguro
 
-Un eléctrico no tiene aceite, filtro de aceite, embrague ni escape que cambiar, y los frenos duran más por la regeneración. La factura de mantenimiento suele ser 20-35 % más baja que la de un equivalente de gasolina `[VERIFICAR: cifra con un taller o estudio comparativo]`. El seguro, en cambio, puede salir algo más caro por el coste de reparación de la batería en caso de siniestro `[VERIFICAR: comparar presupuestos reales, varía mucho por asegurador]`.
+Un eléctrico no tiene aceite, filtro de aceite, embrague ni escape que cambiar, y los frenos duran más por la regeneración. La factura de mantenimiento suele ser entre un 40 % y un 55 % más baja que la de un equivalente de gasolina — el detalle completo está en [mantenimiento de un coche eléctrico: qué revisa y cuánto cuesta](/mantenimiento-coche-electrico-cuanto-cuesta/). El seguro, en cambio, puede salir algo más caro por el coste de reparación de la batería en caso de siniestro, aunque aquí la variación entre aseguradoras es tan grande que compensa comparar varios presupuestos antes de asumir un sobrecoste — más en [seguro de coche eléctrico: cuánto cuesta y qué lo encarece](/seguro-coche-electrico-precio/).
 
 ## Fiscalidad: dónde se nota más
 
-- **Impuesto de matriculación**: el IEDMT exime del pago a todo vehículo con menos de 120 g/km de CO2, umbral que un eléctrico cumple siempre al emitir 0 — la exención en sí está garantizada por ley; lo que varía según el modelo es cuánto te habrías ahorrado si no lo estuviera (entre 800 y 4.800 € orientativos, según el precio y la cilindrada equivalente) `[VERIFICAR: cálculo exacto según el modelo concreto]`.
+- **Impuesto de matriculación**: el IEDMT exime del pago a todo vehículo con menos de 120 g/km de CO2, umbral que un eléctrico cumple siempre al emitir 0 — la exención en sí está garantizada por ley; lo que varía según el modelo es cuánto te habrías ahorrado si no lo estuviera (entre 800 y 4.800 € orientativos, según el precio y la cilindrada equivalente del modelo que compares).
 - **IVTM (impuesto de circulación)**: bonificación con el distintivo CERO de la DGT — en Madrid y Barcelona es del 75 %, en Bilbao del 95 %, pero el porcentaje y si hay que solicitarlo expresamente varía por ayuntamiento. El detalle está en [IVTM coche eléctrico: cómo consultar la bonificación de tu ayuntamiento](/ivtm-coche-electrico-bonificacion-ayuntamiento/).
 - **IRPF**: deducción del 15 % en la instalación de un punto de recarga en tu vivienda habitual, con un máximo de 4.000 € de base (600 € de deducción) — aunque su vigencia en 2026 está sujeta a vaivenes legislativos, ver [deducción IRPF por comprar un eléctrico o instalar el punto de recarga](/deduccion-irpf-coche-electrico-punto-recarga/).
-- **Aparcamiento**: gratuito o con descuento en zona regulada de varias ciudades (Madrid, Barcelona, Valencia), condiciones distintas en cada una `[VERIFICAR: normativa vigente de tu ayuntamiento]`.
+- **Aparcamiento**: gratuito o con descuento en zona regulada de varias ciudades (Madrid, Barcelona, Valencia), pero cada ayuntamiento fija sus propias condiciones y hay que confirmarlas en su ordenanza antes de darlas por hechas.
 
 ## La cuenta a 5 años
 
@@ -52,7 +52,7 @@ Con 15.000 km/año, comparando un eléctrico compacto de ~33.000 € (con Plan A
 | IVTM (5 años, con bonificación) | ~50-150 € | ~350-500 € |
 | **Total aproximado** | **~31.400 €** | **~36.700 €** |
 
-`[VERIFICAR: cifras orientativas con los rangos de arriba; recalcula con tu kilometraje, tu tarifa eléctrica y el modelo concreto que compares]`. El cruce suele producirse entre el año 2 y el año 4 según cuánto conduzcas.
+Son cifras orientativas construidas con los rangos de todo el artículo: recalcula con tu kilometraje, tu tarifa eléctrica y el modelo concreto que compares para tener tu propia cuenta. El cruce suele producirse entre el año 2 y el año 4 según cuánto conduzcas.
 
 ## Cuándo NO compensa
 

@@ -3,7 +3,7 @@ title: "Carga rápida vs. carga lenta: diferencias y cuándo usar cada una"
 description: "Diferencias entre carga AC (lenta) y DC (rápida) en un coche eléctrico, cuándo conviene cada una y su efecto en la batería a largo plazo."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 La carga lenta (AC, corriente alterna) usa potencias de 3,7 a 22 kW y está pensada para cargar durante horas —en casa, de noche, o en el trabajo durante la jornada—; la carga rápida (DC, corriente continua) usa potencias de 50 a 350 kW y está pensada para recuperar del orden del 80 % de batería en 20-40 minutos durante un viaje. No son intercambiables en uso: cada una resuelve un problema distinto, y usar la rápida como si fuera tu carga habitual sale más cara y desgasta más la batería de lo necesario.

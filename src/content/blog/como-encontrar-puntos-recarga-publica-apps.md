@@ -3,7 +3,7 @@ title: "Cómo encontrar puntos de recarga pública: mapas y apps"
 description: "Las mejores apps para localizar puntos de recarga en España, comparar precios y ver disponibilidad en tiempo real antes de un viaje."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 Para encontrar puntos de recarga pública en España, la app más usada es **Electromaps**: funciona como mapa colaborativo, con usuarios que suben fotos y avisan en tiempo real si un cargador está averiado, ocupado o si el parking es complicado. No es la única opción — Google Maps, la app de tu red de recarga habitual (Iberdrola, Endesa, Wenea) y agregadores como Plugsurfing también tienen su sitio según lo que necesites.

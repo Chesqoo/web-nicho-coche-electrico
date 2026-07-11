@@ -3,7 +3,7 @@ title: "Renting de coche eléctrico: precios y si compensa frente a comprar"
 description: "Cuotas reales de renting de coche eléctrico en 2026, qué incluyen y cuándo compensa más que comprar según la OCU y el uso que le vayas a dar."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Un renting de coche eléctrico cuesta, a mediados de 2026, entre 250 € y 450 €/mes para utilitarios (Citroën ë-C3, MG4, Peugeot e-208) y puede superar los 500-650 €/mes en modelos premium (Tesla Model 3, Hyundai IONIQ 5). Según la OCU, comprar al contado sigue siendo la opción más barata a largo plazo si vas a quedarte con el coche varios años — el renting compensa más por comodidad y previsibilidad que por precio puro.
@@ -23,7 +23,7 @@ La diferencia de cuota entre un renting eléctrico y uno de gasolina equivalente
 | Cuota mensual | Fija, todo incluido | Variable (letra + seguro + mantenimiento aparte) |
 | Titularidad | Nunca es tuyo | Tuyo desde el primer día (o al terminar de pagar) |
 | Cambio de coche | Fácil, cada 2-4 años | Tienes que vender/cambiar tú |
-| Ayudas del Plan Auto+ | Normalmente no aplican al arrendatario particular `[VERIFICAR: condiciones vigentes, algunas empresas de renting sí trasladan el descuento]` | Sí, se descuentan en la compra |
+| Ayudas del Plan Auto+ | Normalmente no aplican al arrendatario particular, aunque conviene preguntar: algunas operadoras de renting sí trasladan parte del descuento a la cuota | Sí, se descuentan en la compra |
 | Deducción fiscal | Autónomos/empresas: 100% de la cuota como gasto | Particulares: deducción IRPF del 15% (ver más abajo) |
 | Coste total a 4-5 años | Generalmente más alto | Generalmente más bajo si conservas el coche |
 
@@ -48,4 +48,3 @@ Sí, si el vehículo está afecto a la actividad económica, la cuota de renting
 
 - [¿Cuánto cuesta el renting de un coche eléctrico? Cuotas reales en 2026](https://www.comparaturenting.com/blog/cuota-renting-coche-electrico-precio-medio-2026/)
 - [Comprar coche al contado vs renting: qué dice la OCU](https://www.electromovilidad24.com/articulos/comprar-coche-contado-vs-renting-coche-electrico.html)
-- `[VERIFICAR: ofertas y cuotas vigentes de las principales operadoras de renting al revisar el artículo]`

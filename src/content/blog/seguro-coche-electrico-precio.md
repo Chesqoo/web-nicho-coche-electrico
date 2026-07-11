@@ -3,14 +3,14 @@ title: "Seguro de coche eléctrico: cuánto cuesta y qué lo encarece"
 description: "Precio real del seguro de un coche eléctrico en España, por qué suele ser más caro que uno de gasolina y cómo comparar bien antes de contratar."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Un seguro a todo riesgo con franquicia para un coche eléctrico de gama media cuesta en España, a mediados de 2026, entre 420 € y 620 € al año en las aseguradoras grandes — pero el rango real es mucho más amplio, y para el mismo coche puedes encontrar pólizas desde poco más de 500 € hasta cerca de 3.000 € según la compañía. Sí, en general sigue siendo algo más caro que asegurar un equivalente de gasolina, aunque la diferencia exacta depende mucho de a quién le preguntes.
 
 ## Por qué hay tanta diferencia entre fuentes
 
-Vas a encontrar cifras contradictorias si buscas esto en Google, y no es casualidad: la OCU sitúa el sobrecoste del todo riesgo en un 36 % de media frente a un gasolina equivalente, mientras que algún comparador calcula que ciertas pólizas de eléctrico salen un 3 % más baratas gracias a descuentos por sostenibilidad. La realidad es que ambas cosas pueden ser ciertas a la vez: depende del modelo concreto, tu perfil de conductor y, sobre todo, de la aseguradora — la variación entre compañías para el mismo coche es enorme. `[VERIFICAR: presupuesto real con tu modelo y perfil en al menos 3 aseguradoras, las cifras agregadas no sustituyen a tu caso concreto]`.
+Vas a encontrar cifras contradictorias si buscas esto en Google, y no es casualidad: la OCU sitúa el sobrecoste del todo riesgo en un 36 % de media frente a un gasolina equivalente, mientras que algún comparador calcula que ciertas pólizas de eléctrico salen un 3 % más baratas gracias a descuentos por sostenibilidad. La realidad es que ambas cosas pueden ser ciertas a la vez: depende del modelo concreto, tu perfil de conductor y, sobre todo, de la aseguradora — la variación entre compañías para el mismo coche es enorme. Estas cifras agregadas no sustituyen a tu caso concreto: pide presupuesto real con tu modelo y tu perfil en al menos 3 aseguradoras antes de decidir.
 
 ## Por qué el seguro de un eléctrico tiende a ser más caro
 
@@ -45,4 +45,3 @@ Sí, casi siempre: las cuotas de renting suelen incluir seguro a todo riesgo, ma
 
 - [El seguro a todo riesgo para un coche eléctrico cuesta un 36% más — OCU](https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/seguroscocheselec180526)
 - [Precio seguro coche eléctrico: por qué sigue siendo más caro — Rankia](https://www.rankia.com/blog/mejores-seguros/7353348-precio-seguro-coche-electrico)
-- `[VERIFICAR: comparativa propia con 3+ aseguradoras al revisar el artículo, los precios cambian con frecuencia]`

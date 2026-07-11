@@ -3,14 +3,14 @@ title: "Cargar el coche eléctrico con placas solares: ¿sale a cuenta?"
 description: "Cuánto ahorras cargando con excedentes solares frente a la red, cómo dimensionar la instalación y la cuenta completa con números reales."
 pubDate: 2026-07-08
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 Sí sale a cuenta si ya tienes placas solares o estás pensando en instalarlas de todas formas: cargar con excedentes te cuesta prácticamente 0 €/kWh (ya generado, ya amortizado en la instalación) frente a los 0,08-0,12 €/kWh de la mejor tarifa valle. La pregunta real no es "si compensa", sino si te compensa instalar placas solo para esto — y ahí depende de cuántos km hagas al año y de cuándo cargues.
 
 ## La cuenta de partida: cuánta energía necesita tu coche
 
-Con un consumo medio de 17 kWh/100 km y 15.000 km/año, un coche eléctrico necesita unos 2.550 kWh al año. Una instalación solar doméstica media (4-5 kWp) en España produce entre 5.500 y 7.000 kWh/año según la zona `[VERIFICAR: producción con PVGIS para tu ubicación exacta]`, así que en términos anuales, cubrir el coche con solar es perfectamente factible en cuanto a cantidad de energía.
+Con un consumo medio de 17 kWh/100 km y 15.000 km/año, un coche eléctrico necesita unos 2.550 kWh al año. Una instalación solar doméstica media (4-5 kWp) en España produce entre 5.500 y 7.000 kWh/año según la zona (usa la calculadora gratuita [PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/es/) con tu dirección exacta para afinarlo), así que en términos anuales, cubrir el coche con solar es perfectamente factible en cuanto a cantidad de energía.
 
 El problema no es la cantidad, es **cuándo** se genera esa energía frente a **cuándo** necesitas cargar.
 
@@ -24,11 +24,11 @@ Las placas producen entre las 9:00 y las 18:00 aproximadamente (más o menos seg
 
 ## Excedentes: la otra cara de la moneda
 
-Si no usas tus excedentes solares (ni para el coche ni para otra cosa), la distribuidora te los compensa a un precio bajo, normalmente muy por debajo de lo que pagarías por comprar esa misma energía de la red — la diferencia entre "vender barato" y "consumir gratis" es justo el argumento a favor de cargar el coche con el excedente en vez de venderlo. Los detalles de cómo funciona la compensación de excedentes son propios de una instalación solar doméstica y merecen su propio análisis según tu contrato `[VERIFICAR: condiciones de compensación de excedentes de tu comercializadora en 2026]`.
+Si no usas tus excedentes solares (ni para el coche ni para otra cosa), la distribuidora te los compensa a un precio bajo, normalmente muy por debajo de lo que pagarías por comprar esa misma energía de la red — la diferencia entre "vender barato" y "consumir gratis" es justo el argumento a favor de cargar el coche con el excedente en vez de venderlo. Los detalles de cómo funciona la compensación de excedentes son propios de una instalación solar doméstica y dependen de tu contrato y tu comercializadora concretos — merece la pena revisarlos con tu factura en la mano antes de decidir si compensa más vender el excedente o consumirlo en el coche.
 
 ## La cuenta completa: instalar placas solo para el coche, ¿compensa?
 
-Si no tienes placas y te planteas instalarlas **solo** para cargar el coche, la cuenta cambia bastante: una instalación de 4-5 kWp puede costar 5.000-8.000 € `[VERIFICAR: presupuesto con instalador, varía mucho por tejado y ubicación]`. Comparado con cargar directamente de red en tarifa valle (1,70 €/100 km aproximadamente, ver [cuánto cuesta cargar en casa](/cuanto-cuesta-cargar-coche-electrico-casa/)), el ahorro adicional de usar solo sol en vez de red valle es mucho menor que el ahorro de pasar de gasolina a eléctrico, y el plazo de amortización solo por el coche puede superar los 8-10 años.
+Si no tienes placas y te planteas instalarlas **solo** para cargar el coche, la cuenta cambia bastante: una instalación de 4-5 kWp puede costar 5.000-8.000 € (el precio final varía mucho según el tejado y la ubicación, pide presupuesto con un instalador para tu caso). Comparado con cargar directamente de red en tarifa valle (1,70 €/100 km aproximadamente, ver [cuánto cuesta cargar en casa](/cuanto-cuesta-cargar-coche-electrico-casa/)), el ahorro adicional de usar solo sol en vez de red valle es mucho menor que el ahorro de pasar de gasolina a eléctrico, y el plazo de amortización solo por el coche puede superar los 8-10 años.
 
 Donde sí compensa claramente es si:
 - Ya tienes placas instaladas (por autoconsumo general de la casa) y simplemente aprovechas el excedente para el coche — coste marginal cercano a cero.
@@ -54,4 +54,3 @@ Depende de tu producción sobrante ese día; puede ser desde un pequeño porcent
 
 - [PVGIS — Estimación de producción fotovoltaica por ubicación (Comisión Europea/JRC)](https://re.jrc.ec.europa.eu/pvg_tools/es/)
 - [Cuánto cuesta cargar un coche eléctrico en 2026 — comparativa tarifas](https://tarifaluzhora.es/comparador/tarifas-luz-coches-electricos)
-- `[VERIFICAR: condiciones de compensación de excedentes vigentes en 2026, consultar comercializadora]`

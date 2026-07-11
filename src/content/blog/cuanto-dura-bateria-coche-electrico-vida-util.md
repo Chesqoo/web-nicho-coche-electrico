@@ -3,7 +3,7 @@ title: "Cuánto dura la batería de un coche eléctrico: vida útil real"
 description: "Ciclos de carga, degradación anual y vida útil real de una batería de coche eléctrico, con lo que dicen los fabricantes y cómo cuidarla."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Una batería de coche eléctrico está diseñada para durar como mínimo 8 años o 150.000 km (lo que marca la garantía habitual del fabricante), pero en la práctica la mayoría duran bastante más: entre 15 y 20 años según las estimaciones de varios fabricantes, con una pérdida de capacidad media de en torno al 2 % al año. No es una pieza que "se agote" de golpe como una pila, sino que va perdiendo capacidad de forma gradual y lenta.

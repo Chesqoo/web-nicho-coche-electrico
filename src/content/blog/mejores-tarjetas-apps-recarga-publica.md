@@ -3,7 +3,7 @@ title: "Mejores tarjetas y apps de recarga pública comparadas"
 description: "Iberdrola, Endesa X Way, Wenea y las apps agregadoras: cómo funcionan, cómo se paga y cuál conviene según dónde cargues habitualmente."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 En España no hace falta elegir una única red de recarga: casi todas permiten pagar sin contrato previo (con tarjeta bancaria o desde la app, sin necesidad de registro), así que puedes usar la que tengas más cerca en cada momento. Aun así, si cargas con frecuencia en una zona concreta, conocer las redes principales y cómo funcionan te ahorra tiempo y, a veces, dinero.
@@ -15,7 +15,7 @@ En España no hace falta elegir una única red de recarga: casi todas permiten p
 - **Wenea**: red más pequeña pero con fuerte presencia en el sur de España y en carreteras nacionales, especializada en carga ultrarrápida en ubicaciones estratégicas para viajes.
 - **Tesla (Superchargers)**: red propia de Tesla, hoy abierta en gran parte a otros fabricantes. Su app está considerada de las más estables técnicamente.
 
-`[VERIFICAR: cobertura y número de puntos actualizado de cada red en tu zona concreta, cambian con el tiempo]`.
+La cobertura y el número de puntos de cada red cambian con el tiempo, así que comprueba en su mapa cuál tiene más presencia justo en tu zona.
 
 ## Apps agregadoras: para no depender de una sola red
 

@@ -3,7 +3,7 @@ title: "Deducción IRPF por comprar un eléctrico o instalar el punto de recarga
 description: "Cómo funciona la deducción del 15% en el IRPF por comprar un coche eléctrico o instalar un punto de recarga, requisitos y hasta cuánto puedes desgravar."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Puedes desgravarte el 15 % del precio de compra de un coche eléctrico en tu declaración de la renta, con un límite de base de 20.000 €, lo que supone hasta 3.000 € de deducción. Es compatible y distinta de la deducción del 15 % por instalar un punto de recarga en tu vivienda habitual (hasta 4.000 € de base, 600 € de deducción máxima). Son dos deducciones separadas: puedes aplicar una, la otra, o ambas si compraste el coche e instalaste el wallbox.
@@ -15,7 +15,7 @@ Puedes desgravarte el 15 % del precio de compra de un coche eléctrico en tu dec
 - **Porcentaje**: 15 % del valor de adquisición del vehículo (incluye impuestos, matriculación y transporte).
 - **Base máxima**: 20.000 €, así que la deducción máxima son 3.000 €.
 - **Vehículos que aplican**: eléctricos puros, híbridos enchufables y de pila de combustible, siempre que sean nuevos y para uso particular.
-- **Plazo de compra**: pensado originalmente para el periodo entre el 30 de junio de 2023 y el 31 de diciembre de 2026, aunque su vigencia dentro de ese plazo está sujeta a la disputa legislativa explicada arriba `[VERIFICAR: estado vigente en el momento de tu declaración]`.
+- **Plazo de compra**: pensado originalmente para el periodo entre el 30 de junio de 2023 y el 31 de diciembre de 2026, aunque su vigencia dentro de ese plazo está sujeta a la disputa legislativa explicada arriba — confirma el estado exacto en la sede de la Agencia Tributaria en el momento de hacer tu declaración.
 - **Importante**: se aplica sobre el precio del coche **restando primero las ayudas públicas** que hayas recibido (como el Plan Auto+), no sobre el precio de tarifa completo.
 - Está pensada para uso particular, no para vehículos afectos a una actividad económica (autónomos y empresas tienen su propio régimen de deducción por el Impuesto de Sociedades o como gasto de la actividad).
 
@@ -23,7 +23,7 @@ Puedes desgravarte el 15 % del precio de compra de un coche eléctrico en tu dec
 
 - **Porcentaje**: 15 % del coste de instalación de un punto de recarga en tu vivienda habitual.
 - **Base máxima**: 4.000 € anuales, así que la deducción máxima son 600 €.
-- **Plazo**: instalaciones finalizadas antes del 31 de diciembre de 2026, sujeto a la misma incertidumbre legislativa que la deducción del vehículo, explicada arriba `[VERIFICAR: estado vigente en el momento de tu declaración]`.
+- **Plazo**: instalaciones finalizadas antes del 31 de diciembre de 2026, sujeto a la misma incertidumbre legislativa que la deducción del vehículo, explicada arriba.
 - El detalle de precios de la instalación en sí está en [wallbox en casa: qué necesitas, precio e instalación](/wallbox-casa-precio-instalacion/).
 
 ## Cómo se solicita
@@ -32,7 +32,7 @@ No es automática: se aplica en la declaración de la renta del ejercicio en que
 
 ## Ejemplo con números
 
-Un coche eléctrico de 30.000 € con una ayuda del Plan Auto+ de 4.500 € deja una base de 25.500 €, pero como el límite de la deducción es 20.000 €, el cálculo se hace sobre ese tope: 20.000 × 15 % = 3.000 € de deducción. Si además instalas un wallbox de 1.500 €, sumas 1.500 × 15 % = 225 € adicionales. Total: 3.225 € menos en tu declaración de la renta. `[VERIFICAR: simulación con tu caso concreto, hay matices según tu tramo de IRPF y otras deducciones que ya apliques]`.
+Un coche eléctrico de 30.000 € con una ayuda del Plan Auto+ de 4.500 € deja una base de 25.500 €, pero como el límite de la deducción es 20.000 €, el cálculo se hace sobre ese tope: 20.000 × 15 % = 3.000 € de deducción. Si además instalas un wallbox de 1.500 €, sumas 1.500 × 15 % = 225 € adicionales. Total: 3.225 € menos en tu declaración de la renta. Es un cálculo simplificado — tu caso concreto puede tener matices según tu tramo de IRPF y otras deducciones que ya apliques, así que trátalo como una estimación de partida, no como el resultado final de tu declaración.
 
 ## Cómo encaja con el resto de ayudas
 

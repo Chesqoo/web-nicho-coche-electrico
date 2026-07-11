@@ -3,7 +3,7 @@ title: "Cuánto tarda en cargarse un coche eléctrico (tabla por potencia)"
 description: "Tiempo de carga real de un coche eléctrico según la potencia del cargador y el tamaño de la batería, con tabla de referencia para 50 y 100 kWh."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 El tiempo de carga se calcula dividiendo la capacidad de la batería (kWh) entre la potencia del cargador (kW): una batería de 50 kWh tarda unas 7 horas en un wallbox de 7,4 kW, unas 5 horas a 11 kW, y menos de una hora en un cargador rápido público de 50 kW o más. Es la cuenta más útil para planificar tanto tu carga en casa como una parada en ruta.

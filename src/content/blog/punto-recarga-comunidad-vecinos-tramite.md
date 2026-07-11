@@ -3,7 +3,7 @@ title: "Punto de recarga en comunidad de vecinos: trámite paso a paso"
 description: "La Ley de Propiedad Horizontal permite instalar un cargador en tu plaza sin pedir permiso a la comunidad. El trámite real, paso a paso."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 Si tienes una plaza de garaje de uso exclusivo en tu comunidad de vecinos, **no necesitas el permiso de la comunidad** para instalar un punto de recarga. El artículo 17.5 de la Ley de Propiedad Horizontal lo dice textualmente: "la instalación de un punto de recarga de vehículos eléctricos para uso privado en el aparcamiento del edificio, siempre que éste se ubique en una plaza individual de garaje, sólo requerirá la comunicación previa a la comunidad. El coste de dicha instalación y el consumo de electricidad correspondiente serán asumidos íntegramente por el o los interesados directos en la misma." El único trámite obligatorio es **comunicarlo por escrito** al presidente o al administrador de fincas antes de empezar las obras.

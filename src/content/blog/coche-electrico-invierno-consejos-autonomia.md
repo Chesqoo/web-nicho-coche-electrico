@@ -3,7 +3,7 @@ title: "Coche eléctrico en invierno: cómo evitar perder autonomía"
 description: "El frío puede reducir hasta un 40% la autonomía de un eléctrico. Consejos reales para minimizar la pérdida: precalentar, carga y planificación."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 El frío puede reducir la autonomía de un coche eléctrico hasta un 40 % en los días más duros de invierno, sobre todo por debajo de los 0 °C. No es un fallo del coche: la química de la batería rinde peor en frío y, además, calentar el habitáculo consume energía de la propia batería (a diferencia de un coche de combustión, que aprovecha el calor residual del motor "gratis"). La buena noticia es que varios hábitos sencillos recortan buena parte de esa pérdida.

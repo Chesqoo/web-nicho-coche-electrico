@@ -3,7 +3,7 @@ title: "Cuánto cuesta cambiar la batería de un coche eléctrico"
 description: "El coste real de sustituir la batería de un eléctrico fuera de garantía, por marca, y por qué es un riesgo mucho menor de lo que parece."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Cambiar la batería de un coche eléctrico fuera de garantía cuesta entre 5.000 € y 20.000 € según la marca y la capacidad, con una referencia orientativa de 300-450 € por kWh de capacidad total. Es la cifra que más miedo genera a quien se plantea comprar un eléctrico — y también la que menos probabilidad real tiene de que la pagues tú, porque la inmensa mayoría de fabricantes cubren la batería durante 8 años o 150.000-160.000 km de garantía.
@@ -17,7 +17,7 @@ Cambiar la batería de un coche eléctrico fuera de garantía cuesta entre 5.000
 | Tesla | 7.000-16.000 € |
 | Mercedes-Benz | 10.000-15.000 € |
 
-`[VERIFICAR: presupuesto oficial del servicio técnico de tu modelo concreto, los precios varían por versión de batería y cambian con el tiempo]`. La horquilla amplia se debe a la capacidad (kWh) de cada batería y a si el cambio es completo o parcial (algunos talleres ya ofrecen sustituir solo los módulos dañados, más barato que la batería entera).
+Pide siempre presupuesto al servicio técnico oficial de tu modelo concreto: estos precios cambian con el tiempo y según la versión de batería. La horquilla amplia se debe a la capacidad (kWh) de cada batería y a si el cambio es completo o parcial (algunos talleres ya ofrecen sustituir solo los módulos dañados, más barato que la batería entera).
 
 ## Por qué casi nunca lo pagas tú
 
@@ -54,4 +54,3 @@ No son comparables directamente: las baterías de coche tienen mucha más capaci
 
 - [De 4.000 euros a 33.000 euros: esto es lo que puede costarte cambiar la batería — Motorpasión](https://www.motorpasion.com/coches-electricos/4-000-euros-a-25-000-euros-esto-que-te-costaria-cambiar-bateria-coche-electrico)
 - [¿Cuánto cuesta cambiar la batería de un coche eléctrico? Comparativa con motor térmico — Motor.es](https://www.motor.es/noticias/cuanto-cuesta-cambiar-bateria-electrico-vs-motor-2026113226.html)
-- `[VERIFICAR: condiciones exactas de garantía de batería del fabricante y modelo concretos]`

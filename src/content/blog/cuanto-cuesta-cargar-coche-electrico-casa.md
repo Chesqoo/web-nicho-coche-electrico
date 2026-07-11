@@ -3,7 +3,7 @@ title: "Cuánto cuesta cargar un coche eléctrico en casa (por 100 km)"
 description: "La cuenta real de cargar en casa: kWh/100 km × precio del kWh, tarifa valle vs. punta, y cuánto ahorras frente al depósito de gasolina."
 pubDate: 2026-07-08
 tags: ["coste-y-ayudas", "recarga"]
-draft: true
+draft: false
 ---
 
 Cargar un coche eléctrico en casa cuesta, con tarifa valle nocturna a mediados de 2026, entre 1,20 € y 2,40 € cada 100 km, según el consumo del coche y tu tarifa. Si cargas en horas punta o con una tarifa plana sin discriminación horaria, esa cifra puede subir hasta 4-6 € cada 100 km.
@@ -18,7 +18,7 @@ El consumo homologado varía mucho por modelo y forma de conducir:
 - Compactos generalistas: 15-18 kWh/100 km es lo habitual.
 - SUV grandes o conducción agresiva en autopista: pueden superar los 20-22 kWh/100 km.
 
-`[VERIFICAR: consumo homologado del modelo concreto que te interese, en la ficha técnica del fabricante — el dato de "consumo combinado WLTP" es el que debes usar para esta cuenta]`. Tomamos 17 kWh/100 km como cifra media de referencia para los ejemplos siguientes.
+Para tu propia cuenta, usa el dato de "consumo combinado WLTP" de la ficha técnica de tu modelo concreto — es el que debes multiplicar por el precio del kWh. Aquí tomamos 17 kWh/100 km como cifra media de referencia para los ejemplos siguientes.
 
 ## Cuánto cuesta el kWh según cuándo cargues
 
@@ -30,7 +30,7 @@ España tiene tarifas con discriminación horaria pensadas justo para esto. El d
 | Llano (medio) | 08:00-10:00, 14:00-18:00, 22:00-00:00 | 0,15-0,20 €/kWh |
 | Punta (caro) | 10:00-14:00, 18:00-22:00 | 0,25-0,35 €/kWh |
 
-`[VERIFICAR: precios de tu comercializadora concreta, cambian cada mes con el mercado eléctrico]`. Programar la carga para que empiece a medianoche (casi todos los wallboxes y muchos coches lo permiten desde su app) es la diferencia entre cargar barato y cargar caro con la misma tarifa.
+Estos precios cambian cada mes con el mercado eléctrico, así que compáralos con la tarifa vigente de tu comercializadora antes de decidir. Programar la carga para que empiece a medianoche (casi todos los wallboxes y muchos coches lo permiten desde su app) es la diferencia entre cargar barato y cargar caro con la misma tarifa.
 
 ## La cuenta completa
 

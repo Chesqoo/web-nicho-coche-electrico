@@ -3,7 +3,7 @@ title: "Coche eléctrico vs. híbrido enchufable: diferencias y cuál te convien
 description: "Diferencias reales entre un eléctrico puro y un híbrido enchufable (PHEV): autonomía, uso diario, etiqueta DGT y cuál elegir según tu caso."
 pubDate: 2026-07-11
 tags: ["coches-electricos"]
-draft: true
+draft: false
 ---
 
 Un coche eléctrico (BEV) funciona solo con electricidad y depende de recargar la batería; un híbrido enchufable (PHEV) tiene batería y motor de gasolina o diésel a la vez, y puede recorrer entre 15 y 65 km en modo 100 % eléctrico antes de que entre el motor de combustión. Si puedes cargar a diario y tu uso es sobre todo urbano o de trayectos cortos, el eléctrico puro suele salir mejor parado en coste por kilómetro; si no tienes dónde cargar con regularidad o haces trayectos largos frecuentes sin planificar paradas, el híbrido enchufable es la opción más práctica.

@@ -3,7 +3,7 @@ title: "Tipos de conectores de recarga: CCS, Tipo 2 y CHAdeMO explicados"
 description: "Qué conector necesitas para cargar tu coche eléctrico en España: Tipo 2 para casa, CCS para carga rápida, y por qué CHAdeMO está desapareciendo."
 pubDate: 2026-07-11
 tags: ["recarga"]
-draft: true
+draft: false
 ---
 
 En España, prácticamente todos los coches eléctricos que se venden hoy usan dos conectores: **Tipo 2** para carga lenta/media en corriente alterna (casa, trabajo, la mayoría de puntos públicos) y **CCS** (también llamado Combo 2) para carga rápida en corriente continua. El tercer conector, **CHAdeMO**, es una tecnología japonesa cada vez menos habitual en coches nuevos, aunque todavía circulan modelos que lo usan.

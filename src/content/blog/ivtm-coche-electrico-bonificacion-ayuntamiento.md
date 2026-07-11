@@ -3,7 +3,7 @@ title: "IVTM coche eléctrico: cómo consultar la bonificación de tu ayuntamien
 description: "El impuesto de circulación (IVTM) puede bajar hasta un 75-95% para coches eléctricos, pero el porcentaje y el trámite dependen de cada ayuntamiento."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 El IVTM (impuesto de circulación) para un coche eléctrico con distintivo CERO puede tener una bonificación de entre el 75 % y el 95 %, y en bastantes municipios incluso quedar en 0 €. Pero no hay una cifra única para toda España: cada ayuntamiento fija su propio porcentaje en la ordenanza fiscal, y en la mayoría de casos **tienes que solicitarlo tú**, no se aplica solo.
@@ -19,7 +19,7 @@ El IVTM es un impuesto municipal, así que cada ayuntamiento decide cuánto boni
 | Valencia | 75 % (limitado a un vehículo por titular) |
 | Bilbao | 95 % |
 
-`[VERIFICAR: porcentaje vigente en tu municipio concreto, consulta la ordenanza fiscal de tu ayuntamiento — estas cifras cambian y hay cientos de municipios con su propia normativa]`.
+Estas cifras cambian y hay cientos de municipios con su propia normativa, así que consulta la ordenanza fiscal de tu ayuntamiento para confirmar el porcentaje vigente en el tuyo.
 
 ## Cómo se solicita
 
@@ -46,10 +46,9 @@ La bonificación no es transferible automáticamente: tienes que volver a solici
 Depende del ayuntamiento: algunos la conceden de forma indefinida mientras el vehículo mantenga el distintivo CERO, otros piden renovación periódica. Consúltalo al solicitarla la primera vez.
 
 **¿Los híbridos enchufables tienen la misma bonificación que los eléctricos puros?**
-Normalmente no: la bonificación más alta suele reservarse a los vehículos con distintivo CERO (eléctricos puros), mientras que los híbridos enchufables con distintivo ECO suelen tener un porcentaje menor o ninguno, según el municipio. `[VERIFICAR: condiciones específicas para ECO en tu ayuntamiento]`.
+Normalmente no: la bonificación más alta suele reservarse a los vehículos con distintivo CERO (eléctricos puros), mientras que los híbridos enchufables con distintivo ECO suelen tener un porcentaje menor o ninguno, según el municipio — revisa las condiciones específicas para ECO en la ordenanza de tu ayuntamiento.
 
 ## Fuentes
 
 - [Bonificaciones impuesto de circulación 2026: hasta un 75% menos (IVTM)](https://impuestocirculacion.es/bonificaciones-y-exenciones-del-ivtm/)
 - [Impuesto sobre Vehículos de Tracción Mecánica (IVTM), bonificación medioambiental — Ayuntamiento de Madrid](https://agenciatributaria.madrid.es/portales/contribuyente/es/Tramites/Impuesto-sobre-Vehiculos-de-Traccion-Mecanica-IVTM-Bonificacion-medioambiental-para-vehiculos-matriculados/)
-- `[VERIFICAR: ordenanza fiscal vigente de tu ayuntamiento concreto]`

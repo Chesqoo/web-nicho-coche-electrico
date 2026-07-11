@@ -3,7 +3,7 @@ title: "Mantenimiento de un coche eléctrico: qué revisa y cuánto cuesta"
 description: "El mantenimiento anual de un eléctrico cuesta de media un 40-55% menos que uno de gasolina. Qué se revisa, qué desaparece y la cuenta con números."
 pubDate: 2026-07-11
 tags: ["coste-y-ayudas"]
-draft: true
+draft: false
 ---
 
 Mantener un coche eléctrico cuesta de media entre 150 € y 370 € al año, frente a los 400-600 € de un equivalente de gasolina o diésel — un ahorro de entre el 40 % y el 55 % según la fuente que consultes. La razón es mecánica, no de marketing: un eléctrico tiene muchas menos piezas que se desgastan y necesitan cambiarse por rutina.
@@ -30,7 +30,7 @@ Un motor eléctrico no tiene aceite que cambiar, ni filtro de aceite, ni embragu
 | Pastillas de freno | Duran más (regeneración) | Desgaste normal |
 | Revisión de batería/sistema eléctrico | 80-150 € (según fabricante) | No aplica |
 
-`[VERIFICAR: tarifas del servicio oficial de tu modelo concreto, varían por marca y concesionario]`. A 5 años, el ahorro acumulado en mantenimiento puede rondar 1.000-1.500 €, una parte más de la cuenta completa que hacemos en [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/)
+Las tarifas exactas varían por marca y concesionario, así que pide el plan de mantenimiento oficial de tu modelo concreto para afinar la cifra. A 5 años, el ahorro acumulado en mantenimiento puede rondar 1.000-1.500 €, una parte más de la cuenta completa que hacemos en [¿merece la pena un coche eléctrico en España?](/merece-la-pena-coche-electrico-espana/)
 
 ## El "pero" de la batería
 
@@ -51,4 +51,3 @@ Depende del fabricante, pero suele ser similar en periodicidad a un coche de com
 
 - [Coste real de mantenimiento: coche eléctrico vs gasolina en 2026](https://terryocasion.com/coste-mantenimiento-coche-electrico-vs-gasolina-2026/)
 - [Mantenimiento coche eléctrico: precios y marcas en España (2026)](https://somoselectricos.com/mantenimiento-coche-electrico-precio-comparativa-espana/)
-- `[VERIFICAR: tarifas de servicio oficial de tu marca concreta al revisar el artículo]`
