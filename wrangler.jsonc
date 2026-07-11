@@ -1,7 +1,7 @@
 {
   // Configuración de despliegue en Cloudflare Workers (static assets).
   // La web se sirve desde ./dist tras `npm run build`.
-  "name": "web-nicho-energia-hogar",
+  "name": "web-nicho-coche-electrico",
   "compatibility_date": "2026-07-01",
   "assets": {
     "directory": "./dist"
