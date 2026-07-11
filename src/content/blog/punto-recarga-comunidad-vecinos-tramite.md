@@ -6,7 +6,7 @@ tags: ["recarga"]
 draft: true
 ---
 
-Si tienes una plaza de garaje de uso exclusivo en tu comunidad de vecinos, **no necesitas el permiso de la comunidad** para instalar un punto de recarga: el artículo 17.5 de la Ley de Propiedad Horizontal te da ese derecho, siempre que asumas tú el coste y la instalación no afecte al suministro eléctrico general del edificio. El único trámite obligatorio es **comunicarlo por escrito** al presidente o al administrador de fincas antes de empezar las obras.
+Si tienes una plaza de garaje de uso exclusivo en tu comunidad de vecinos, **no necesitas el permiso de la comunidad** para instalar un punto de recarga. El artículo 17.5 de la Ley de Propiedad Horizontal lo dice textualmente: "la instalación de un punto de recarga de vehículos eléctricos para uso privado en el aparcamiento del edificio, siempre que éste se ubique en una plaza individual de garaje, sólo requerirá la comunicación previa a la comunidad. El coste de dicha instalación y el consumo de electricidad correspondiente serán asumidos íntegramente por el o los interesados directos en la misma." El único trámite obligatorio es **comunicarlo por escrito** al presidente o al administrador de fincas antes de empezar las obras.
 
 ## El trámite paso a paso
 
@@ -39,6 +39,6 @@ La vía individual, sin complicaciones de acceso al cuadro, puede resolverse en 
 
 ## Fuentes
 
+- [Artículo 17 de la Ley de Propiedad Horizontal — texto consolidado](https://www.conceptosjuridicos.com/lph-articulo-17/)
 - [La Ley de Propiedad Horizontal permite instalar un punto de recarga sin permiso de la comunidad — Vozpópuli](https://www.vozpopuli.com/economia/inmobiliario/la-ley-de-propiedad-horizontal-permite-instalar-un-punto-de-recarga-de-coche-electrico-sin-permiso-de-la-comunidad.html)
 - [Normativa para instalar un cargador en garaje comunitario: guía práctica 2026](https://www.evenergia.com/blog/normativa-instalar-cargador-coche-electrico-en-garaje-comunitario/)
-- `[VERIFICAR: redacción exacta y vigente del artículo 17.5 de la Ley de Propiedad Horizontal al aplicarlo a tu caso concreto]`

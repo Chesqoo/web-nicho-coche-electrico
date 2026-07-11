@@ -27,7 +27,7 @@ Un compacto de gasolina consume de media 6-8 l/100 km. Con la gasolina 95 a 1,51
 
 **7 l × 1,52 €/l ≈ 10,64 € cada 100 km.**
 
-La recarga en casa sale unas 6 veces más barata que el depósito. El detalle de cómo llegar a esa tarifa valle está en [cuánto cuesta cargar un coche eléctrico en casa](/cuanto-cuesta-cargar-coche-electrico-casa/). Si en vez de cargar en casa dependes solo de la red pública rápida (0,35-0,55 €/kWh `[VERIFICAR: precio medio de la red pública en tu zona]`), la ventaja se reduce mucho y en algunos casos casi desaparece.
+La recarga en casa sale unas 6 veces más barata que el depósito. El detalle de cómo llegar a esa tarifa valle está en [cuánto cuesta cargar un coche eléctrico en casa](/cuanto-cuesta-cargar-coche-electrico-casa/). Si en vez de cargar en casa dependes solo de la red pública rápida (0,25-0,79 €/kWh según la red, ver [cuánto cuesta cargar en electrolineras de autopista](/cuanto-cuesta-cargar-electrolineras-autopista/)), la ventaja se reduce mucho y en algunos casos casi desaparece.
 
 ## Mantenimiento y seguro
 
@@ -35,9 +35,9 @@ Un eléctrico no tiene aceite, filtro de aceite, embrague ni escape que cambiar,
 
 ## Fiscalidad: dónde se nota más
 
-- **Impuesto de matriculación**: los eléctricos están exentos (0 emisiones oficiales), un ahorro puntual que según el modelo puede ir de 800 a 4.800 € `[VERIFICAR: cálculo exacto según cilindrada/precio del modelo]`.
-- **IVTM (impuesto de circulación)**: bonificación con el distintivo CERO de la DGT — en Madrid capital es del 75 %, pero el porcentaje y si hay que solicitarlo varía por ayuntamiento `[VERIFICAR: bonificación en tu municipio]`.
-- **IRPF**: deducción del 15 % en la instalación de un punto de recarga en tu vivienda habitual, con un máximo de 4.000 € de base (600 € de deducción), para instalaciones finalizadas antes del 31 de diciembre de 2026.
+- **Impuesto de matriculación**: el IEDMT exime del pago a todo vehículo con menos de 120 g/km de CO2, umbral que un eléctrico cumple siempre al emitir 0 — la exención en sí está garantizada por ley; lo que varía según el modelo es cuánto te habrías ahorrado si no lo estuviera (entre 800 y 4.800 € orientativos, según el precio y la cilindrada equivalente) `[VERIFICAR: cálculo exacto según el modelo concreto]`.
+- **IVTM (impuesto de circulación)**: bonificación con el distintivo CERO de la DGT — en Madrid y Barcelona es del 75 %, en Bilbao del 95 %, pero el porcentaje y si hay que solicitarlo expresamente varía por ayuntamiento. El detalle está en [IVTM coche eléctrico: cómo consultar la bonificación de tu ayuntamiento](/ivtm-coche-electrico-bonificacion-ayuntamiento/).
+- **IRPF**: deducción del 15 % en la instalación de un punto de recarga en tu vivienda habitual, con un máximo de 4.000 € de base (600 € de deducción) — aunque su vigencia en 2026 está sujeta a vaivenes legislativos, ver [deducción IRPF por comprar un eléctrico o instalar el punto de recarga](/deduccion-irpf-coche-electrico-punto-recarga/).
 - **Aparcamiento**: gratuito o con descuento en zona regulada de varias ciudades (Madrid, Barcelona, Valencia), condiciones distintas en cada una `[VERIFICAR: normativa vigente de tu ayuntamiento]`.
 
 ## La cuenta a 5 años
@@ -75,3 +75,4 @@ Depende mucho del modelo y del estado de la batería. Revisa [qué mirar en un e
 - [Portal de Ayudas Energía IDAE — MOVES III / Plan Auto](https://ayudasenergiaidae.es/moves-iii/)
 - [Histórico de precios de carburantes — Ministerio para la Transición Ecológica](https://energia.serviciosmin.gob.es/shpCarburantes/)
 - [Impuesto sobre Vehículos de Tracción Mecánica (IVTM), bonificación medioambiental — Ayuntamiento de Madrid](https://agenciatributaria.madrid.es/portales/contribuyente/es/Tramites/Impuesto-sobre-Vehiculos-de-Traccion-Mecanica-IVTM-Bonificacion-medioambiental-para-vehiculos-matriculados/)
+- [Impuesto de Matriculación (IEDMT): qué vehículos están exentos — RO-DES](https://www.ro-des.com/info/dgt/impuesto-de-matriculacion-de-coches/)

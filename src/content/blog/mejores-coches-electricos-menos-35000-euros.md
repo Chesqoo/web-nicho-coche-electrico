@@ -25,7 +25,7 @@ Por debajo de 35.000 € hay ya varios eléctricos con autonomía suficiente par
 
 ## Cómo elegir según tu uso
 
-- **Uso urbano y trayectos cortos (menos de 40 km/día)**: no necesitas la batería más grande ni la mayor potencia de carga. Un Dacia Spring o un Fiat 500e con batería pequeña ya cubre de sobra, y ahorras varios miles de euros. La media de desplazamiento diario en España no llega a 40 km `[VERIFICAR: fuente y año del dato de movilidad media]`.
+- **Uso urbano y trayectos cortos (en torno a 40 km/día o menos)**: no necesitas la batería más grande ni la mayor potencia de carga. Un Dacia Spring o un Fiat 500e con batería pequeña ya cubre de sobra, y ahorras varios miles de euros. La media de desplazamiento diario en España ronda los 40 km, según la última encuesta de movilidad del Ministerio de Transportes (de 2006-2007, el dato de referencia más citado aunque desactualizado).
 - **Uso mixto con algo de carretera**: busca al menos 350-400 km WLTP para tener margen tras el descuento real en autopista (ver [autonomía real vs. WLTP](/autonomia-real-vs-wltp-coche-electrico/)). El Renault 5 E-Tech, el Peugeot e-208 GT o el MG4 encajan aquí.
 - **Viajes largos frecuentes**: prioriza potencia de carga rápida por encima de 100 kW y batería de 50 kWh o más, para que las paradas de recarga sean cortas (20-30 minutos). El MG4 suele destacar en este apartado dentro de este rango de precio.
 
@@ -57,4 +57,5 @@ No, son precios de tarifa antes de ayudas. Descuenta la ayuda que te corresponda
 
 - [Mejores coches eléctricos por menos de 35.000 euros — DrivingEco](https://www.drivingeco.com/mejores-coches-electricos-menos-35000-euros-espana/)
 - [Coches eléctricos por menos de 35.000 euros con Plan Auto+ — Carwow](https://www.carwow.es/coches-electricos/menos-35000-euros)
+- [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
 - `[VERIFICAR: ficha técnica y precio oficial de cada fabricante en la fecha de publicación]`

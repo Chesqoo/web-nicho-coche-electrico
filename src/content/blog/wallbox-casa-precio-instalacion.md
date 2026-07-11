@@ -26,7 +26,7 @@ El coste se reparte en tres partidas:
 | 7,4 kW (monofásico) | ~7 h | El estándar para la mayoría de hogares |
 | 11 kW (trifásico) | ~4,5-5 h | Si necesitas cargar rápido en poco tiempo o tienes trifásica ya en casa |
 
-Para la mayoría de usos (cargar de noche mientras duermes) 7,4 kW es más que suficiente: en 7-8 horas de sueño recuperas una batería completa. Instalar 11 kW solo compensa si de verdad necesitas cargar en 4-5 horas o ya tienes trifásica contratada por otro motivo, porque el equipo y a veces el cambio de potencia contratada encarecen la instalación `[VERIFICAR: coste de cambiar de monofásica a trifásica en tu distribuidora]`.
+Para la mayoría de usos (cargar de noche mientras duermes) 7,4 kW es más que suficiente: en 7-8 horas de sueño recuperas una batería completa. Instalar 11 kW solo compensa si de verdad necesitas cargar en 4-5 horas o ya tienes trifásica contratada por otro motivo, porque cambiar de monofásica a trifásica añade coste: el trabajo de la distribuidora ronda 300-500 € (tarifa no regulada), más los derechos de enganche (unos 9 € + IVA) y de extensión (unos 17 €/kW + IVA) que factura la distribuidora, aparte del boletín eléctrico. `[VERIFICAR: presupuesto exacto de tu distribuidora, estas tarifas no reguladas varían por zona]`.
 
 ## El cuadro eléctrico y el boletín
 
@@ -34,7 +34,7 @@ Antes de instalar, un electricista tiene que comprobar que tu instalación (ICP,
 
 ## Comunidad de vecinos: el caso más frecuente y el más largo
 
-Si tu plaza está en un garaje comunitario, la Ley de Propiedad Horizontal te da derecho a instalar tu punto de recarga individual sin necesitar autorización de la junta (solo comunicarlo), siempre que la instalación se haga a tu costa `[VERIFICAR: redacción exacta y artículo de la ley vigente en 2026]`. El punto suele hacerse desde tu propio contador (instalación individual) para no depender de repartos de gasto comunitario, aunque encarece el cableado si tu plaza está lejos de tu cuadro. La opción alternativa —infraestructura común para varios puntos— es más barata por plaza pero requiere acuerdo de la comunidad y más tiempo de gestión.
+Si tu plaza está en un garaje comunitario, el artículo 17.5 de la Ley de Propiedad Horizontal te da derecho a instalarlo sin pedir autorización a la junta: "la instalación de un punto de recarga de vehículos eléctricos para uso privado en el aparcamiento del edificio, siempre que éste se ubique en una plaza individual de garaje, sólo requerirá la comunicación previa a la comunidad. El coste de dicha instalación y el consumo de electricidad correspondiente serán asumidos íntegramente por el o los interesados directos en la misma." El punto suele hacerse desde tu propio contador (instalación individual) para no depender de repartos de gasto comunitario, aunque encarece el cableado si tu plaza está lejos de tu cuadro. La opción alternativa —infraestructura común para varios puntos— es más barata por plaza pero requiere acuerdo de la comunidad y más tiempo de gestión. El trámite completo, paso a paso, está en [punto de recarga en comunidad de vecinos: trámite paso a paso](/punto-recarga-comunidad-vecinos-tramite/).
 
 ## Ayudas: cuánto baja el coste real
 
@@ -62,4 +62,5 @@ En vivienda unifamiliar sin complicaciones, 1-2 semanas. En comunidad de vecinos
 - [Cuánto cuesta instalar un wallbox — Ritest](https://ritest.es/noticias/cuanto-cuesta-instalar-cargador-wallbox)
 - [Precio de instalar un punto de recarga en casa o garaje comunitario](https://energiaycalorextremadura.es/puntos-de-recarga/precio-de-instalar-un-punto-de-recarga-en-casa-o-garaje-comunitario/)
 - [Plan Auto+ 2026 — Ministerio de Industria y Turismo](https://www.mintur.gob.es/es-es/programa-auto/)
-- `[VERIFICAR: Ley de Propiedad Horizontal, artículo vigente sobre derecho a instalar punto de recarga individual]`
+- [Artículo 17 de la Ley de Propiedad Horizontal](https://www.conceptosjuridicos.com/lph-articulo-17/)
+- [¿Cuánto cuesta cambiar de monofásico a trifásico? — Todos los Hechos](https://todosloshechos.es/cuanto-cuesta-cambiar-de-monofasico-a-trifasico)

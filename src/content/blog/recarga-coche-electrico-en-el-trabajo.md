@@ -6,7 +6,7 @@ tags: ["recarga"]
 draft: true
 ---
 
-Si tu empresa tiene un aparcamiento de más de 20 plazas, es posible que ya esté obligada por ley a tener al menos un punto de recarga — la normativa española exige un cargador entre 20 y 40 plazas, y uno más por cada 40 plazas adicionales hasta 1.000 `[VERIFICAR: norma exacta y redacción vigente en 2026]`. Vale la pena preguntar en RRHH o a mantenimiento del edificio antes de asumir que tienes que resolverlo tú solo en casa.
+Si tu empresa tiene un aparcamiento de más de 20 plazas, es posible que ya esté obligada por ley a tener al menos un punto de recarga: el Real Decreto-ley 29/2021 exige que, desde el 1 de enero de 2023, todo aparcamiento de uso no residencial con más de 20 plazas tenga una estación de recarga por cada 40 plazas (o fracción) hasta las 1.000 plazas, y una más por cada 100 plazas adicionales a partir de ahí. Vale la pena preguntar en RRHH o a mantenimiento del edificio antes de asumir que tienes que resolverlo tú solo en casa.
 
 ## Qué preguntar exactamente
 
@@ -44,6 +44,6 @@ Puede considerarse retribución en especie según cómo lo estructure la empresa
 
 ## Fuentes
 
+- [Real Decreto-ley 29/2021, de 21 de diciembre — texto en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21096)
 - [¿En qué aparcamientos son obligatorios los puntos de recarga? — Repsol](https://www.repsol.es/autonomos-y-empresas/asesoramiento/instalacion-obligatoria-de-cargadores-electricos-en-aparcamientos/)
 - [Normativa instalación puntos de carga de vehículos eléctricos en empresas — Cad&Lan](https://www.cadlan.com/noticias/normativa-recarga-vehiculos-electricos/)
-- `[VERIFICAR: texto exacto y número del Real Decreto-ley que fija la obligación de puntos de recarga en aparcamientos no residenciales de más de 20 plazas]`

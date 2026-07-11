@@ -23,7 +23,7 @@ Si tu coche va a ser sobre todo urbano (menos de 40 km al día, poca o ninguna a
 
 ## Por qué no necesitas más autonomía de la que vas a usar
 
-La media de desplazamiento diario en España no llega a 40 km `[VERIFICAR: fuente y año del dato de movilidad, Ministerio de Transportes o DGT]`. Con eso en mente, un urbano con 200-250 km de autonomía WLTP te da varios días de autonomía sin cargar, incluso contando el descuento habitual sobre el dato homologado en uso real (menor en ciudad que en autopista, como vemos en [autonomía real vs. WLTP](/autonomia-real-vs-wltp-coche-electrico/)). Pagar más por una batería de 60 kWh cuando vas a usar 15 km al día es peso y coste que no se traduce en beneficio real.
+La media de desplazamiento diario en España ronda los 40 km, según la última encuesta de movilidad del Ministerio de Transportes (de 2006-2007, el dato de referencia más citado aunque desactualizado). Con eso en mente, un urbano con 200-250 km de autonomía WLTP te da varios días de autonomía sin cargar, incluso contando el descuento habitual sobre el dato homologado en uso real (menor en ciudad que en autopista, como vemos en [autonomía real vs. WLTP](/autonomia-real-vs-wltp-coche-electrico/)). Pagar más por una batería de 60 kWh cuando vas a usar 15 km al día es peso y coste que no se traduce en beneficio real.
 
 ## Lo que sí conviene mirar en este segmento
 
@@ -50,4 +50,5 @@ La mayoría sí, al ser de los más económicos del mercado — el detalle de cu
 
 - [Guía de compra: cómo elegir el mejor coche eléctrico urbano en 2026 — DrivingEco](https://www.drivingeco.com/guia-de-compra-como-elegir-el-mejor-coche-electrico-urbano-en-2026-segun-tamano/)
 - [TOP coches eléctricos pequeños baratos de 2026 — Emovili](https://emovili.com/blog/coche-electrico-pequeno-barato/)
+- [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
 - `[VERIFICAR: ficha técnica y precio oficial de cada fabricante en la fecha de publicación]`

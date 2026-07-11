@@ -40,7 +40,7 @@ Con 17 kWh/100 km de consumo:
 - **Tarifa llano (0,18 €/kWh)**: 17 × 0,18 = **3,06 € / 100 km**
 - **Tarifa punta (0,30 €/kWh)**: 17 × 0,30 = **5,10 € / 100 km**
 
-Para un uso de 15.000 km/año, la diferencia entre cargar siempre en valle y cargar siempre en punta es de aproximadamente 510 € al año. Es la razón por la que casi todos los propietarios de eléctricos acaban contratando una tarifa con discriminación horaria y programando la carga nocturna: el 80 % de las recargas de un eléctrico particular se hacen en casa, según los datos del sector `[VERIFICAR: fuente y año del dato]`.
+Para un uso de 15.000 km/año, la diferencia entre cargar siempre en valle y cargar siempre en punta es de aproximadamente 510 € al año — la razón de peso para contratar una tarifa con discriminación horaria y programar la carga nocturna. Según una encuesta de YouGov, el 56 % de los propietarios de eléctricos en España carga principalmente en casa (frente al 78 % en 2021), con el resto repartido entre el trabajo, centros comerciales y otros puntos públicos; la tendencia es a cargar algo más fuera de casa a medida que crece la red pública, pero la carga doméstica sigue siendo, con diferencia, la opción mayoritaria y la más barata.
 
 ## Wallbox vs. enchufe normal
 
@@ -55,7 +55,7 @@ Si además cargas con excedentes de placas solares, el coste por kWh puede bajar
 ## Preguntas frecuentes
 
 **¿Es más barato cargar en un punto público que en casa?**
-No, casi nunca. La carga pública rápida (0,35-0,55 €/kWh) suele ser 3-5 veces más cara que la carga nocturna en casa. Tiene sentido para viajes largos, no para el día a día.
+No, casi nunca. La carga pública rápida (0,25-0,79 €/kWh según la red y si tienes suscripción) suele ser de 3 a 6 veces más cara que la carga nocturna en casa. Tiene sentido para viajes largos, no para el día a día — el detalle completo está en [cuánto cuesta cargar en electrolineras de autopista frente a casa](/cuanto-cuesta-cargar-electrolineras-autopista/).
 
 **¿Cuánto sube mi factura de la luz al cargar el coche cada noche?**
 Con 15.000 km/año y tarifa valle, la factura sube unos 20-25 € al mes de media, muy por debajo de lo que costaría en gasolina.
@@ -67,4 +67,5 @@ Depende del wallbox y del resto de electrodomésticos que uses a la vez. Muchos 
 
 - [Histórico de precios de carburantes — Ministerio para la Transición Ecológica](https://energia.serviciosmin.gob.es/shpCarburantes/)
 - [Tarifas de luz para coche eléctrico — comparador tarifaluzhora.es](https://tarifaluzhora.es/comparador/tarifas-luz-coches-electricos)
-- `[VERIFICAR: sustituir por la web de tu comercializadora eléctrica al revisar el artículo, los precios de tarifas cambian mensualmente]`
+- [Dónde cargan los propietarios de coches eléctricos: encuesta YouGov — Faconauto](https://www.faconauto.com/noticias-automocion/una-encuesta-revela-un-cambio-significativo-hacia-la-recarga-de-vehiculos-electricos-fuera-de-casa/)
+- Antes de contratar, compara el precio valle/punta vigente en la web de tu comercializadora: los precios de tarifa cambian cada mes con el mercado eléctrico.

@@ -39,7 +39,7 @@ En resumen, tres factores se restan (no se suman de forma proporcional, pero sí
 4. Si conduces en una zona con inviernos fríos o vas a usar mucho la calefacción, resta otro 10-20 % adicional en esos meses.
 5. El resultado es una estimación razonable de "lo que de verdad vas a tener" para planificar si te vale sin recargar.
 
-Para el uso real de un conductor medio en España (menos de 40 km/día `[VERIFICAR: dato de movilidad media diaria, fuente DGT o Ministerio de Transportes]`), incluso con un descuento del 35 % sobre un WLTP de 350-400 km sobra autonomía de sobra para el día a día. El cálculo importa sobre todo si haces viajes largos habituales.
+Para el uso real de un conductor medio en España (en torno a 40 km/día según la última encuesta de movilidad del Ministerio de Transportes, de 2006-2007 — es el dato de referencia más citado, aunque ya tiene años), incluso con un descuento del 35 % sobre un WLTP de 350-400 km sobra autonomía de sobra para el día a día. El cálculo importa sobre todo si haces viajes largos habituales.
 
 ## Qué mirar en la ficha técnica además del WLTP
 
@@ -64,4 +64,5 @@ No. Los modelos con bomba de calor y buen aislamiento de la batería pierden men
 
 - [Autonomía real vs. WLTP en SUV eléctricos — DrivingEco](https://www.drivingeco.com/autonomia-real-vs-wltp-en-suv-electricos-por-que-tu-coche-no-llega-a-lo-que/)
 - [Cómo afecta el invierno a la autonomía — Revista km77](https://www.km77.com/revista/engendro-mecanico/autonomia-invernal-real-de-los-coches-electricos/)
+- [Estudios de movilidad — Ministerio de Transportes y Movilidad Sostenible](https://www.transportes.gob.es/informacion-para-el-ciudadano/informacion-estadistica/movilidad/encuesta-de-movilidad-de-las-personas-residentes-en-espana)
 - `[VERIFICAR: añadir ficha técnica oficial del/de los modelo(s) que se mencionen al revisar el artículo]`
