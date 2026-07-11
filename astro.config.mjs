@@ -22,7 +22,7 @@ function envolverTablas() {
 
 // Dominio del sitio (necesario para sitemap y URLs canónicas)
 export default defineConfig({
-  site: 'https://vatiosencasa.com',
+  site: 'https://vatiosenruta.com',
   integrations: [sitemap()],
   markdown: {
     rehypePlugins: [envolverTablas],

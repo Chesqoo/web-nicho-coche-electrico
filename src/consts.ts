@@ -5,24 +5,24 @@
 // ============================================================
 
 export const SITE = {
-  nombre: 'Vatios en Casa',
-  descripcion: 'Autoconsumo, aerotermia y ahorro energético en el hogar, explicados con números reales.',
+  nombre: 'Vatios en Ruta',
+  descripcion: 'Coche eléctrico y recarga en España, explicados con números reales: cuánto cuesta, cuánto ahorras y qué comprar.',
   idioma: 'es',
 
   // <title> de la home: a diferencia del resto de páginas (que usan el título
   // del artículo/sección), la home no tiene uno propio salvo este — que debe
   // llevar las keywords principales del nicho, no solo el nombre del sitio.
-  tituloHome: 'Vatios en Casa — Autoconsumo, aerotermia y ahorro energético',
+  tituloHome: 'Vatios en Ruta — Coche eléctrico y recarga en España',
 
   // Texto del hero de portada
-  eyebrow: 'Energía y autoconsumo · España',
-  heroTitulo: 'Ahorra en tu factura con <em>números reales</em>, no con humo',
+  eyebrow: 'Coche eléctrico y recarga · España',
+  heroTitulo: 'El coche eléctrico con <em>números reales</em>, no con humo',
 
   // Texto del enlace de cada tarjeta de artículo (portada y categorías).
   textoCta: 'Ver los números →',
   // Frase de cierre del footer. SITE.nombre es una publicación/agregador,
   // no una persona — evita voz de autor individual aquí.
-  footerFrase: 'Información sobre energía y autoconsumo en el hogar, redactada y revisada antes de publicarse.',
+  footerFrase: 'Información sobre coche eléctrico y recarga en el hogar, redactada y revisada antes de publicarse.',
 
   // ID de cliente AdSense (ca-pub-XXXXXXXXXXXXXXXX).
   // Vacío ('') = no se inserta el código de anuncios.
@@ -30,7 +30,7 @@ export const SITE = {
 
   // Measurement ID de Google Analytics 4 (G-XXXXXXXXXX).
   // Vacío ('') = no se inserta el script de medición.
-  analyticsId: 'G-N8KWPWDY4X',
+  analyticsId: '',
   // Token de verificación de Google Search Console (el valor del content=
   // de la etiqueta <meta name="google-site-verification"> que te da Search
   // Console al dar de alta el dominio). Vacío ('') = no se inserta la etiqueta.
@@ -42,19 +42,19 @@ export const SITE = {
 // automáticamente su página /categoria/<id>/ y su enlace en el menú.
 export const CATEGORIAS = [
   {
-    id: 'balcon-solar',
-    nombre: 'Balcón solar',
-    descripcion: 'Kits solares enchufables: legalidad, ahorro real y comparativas para producir tu propia energía sin obras.',
+    id: 'coches-electricos',
+    nombre: 'Coches eléctricos',
+    descripcion: 'Modelos, autonomía real, comparativas y qué comprar según tu uso.',
   },
   {
-    id: 'aerotermia',
-    nombre: 'Aerotermia',
-    descripcion: 'Precios reales, ayudas y todo lo que debes saber antes de sustituir tu caldera por una bomba de calor.',
+    id: 'recarga',
+    nombre: 'Recarga',
+    descripcion: 'Wallbox en casa, red pública, cargar con placas solares, tiempos y costes.',
   },
   {
-    id: 'ahorro',
-    nombre: 'Ahorro y tarifas',
-    descripcion: 'Excedentes, batería virtual, consumo de electrodomésticos y trucos con números para pagar menos luz.',
+    id: 'coste-y-ayudas',
+    nombre: 'Coste y ayudas',
+    descripcion: 'Coste real frente a gasolina, Plan MOVES, fiscalidad, seguro y mantenimiento.',
   },
 ] as const;
 

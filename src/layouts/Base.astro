@@ -59,7 +59,7 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
        TOKENS — reglas duras anti "efecto IA". No las relajes al
        pedirle cambios a un asistente; son las que evitan que el
        sitio vuelva a parecer una plantilla genérica:
-       - Un único acento de color (verde). Nada de gradientes
+       - Un único acento de color (rojo oscuro). Nada de gradientes
          decorativos ni "glow"/neon sobre fondo oscuro.
        - --radius máximo 8px en toda la web (nada de 16px+ "SaaS 2025").
        - Como mucho una sombra sutil, solo en hover de tarjetas.
@@ -68,15 +68,15 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
          Cero Inter.
        ============================================================ */
     :root {
-      --bg: #fafcfb;
-      --texto: #263238;
-      --suave: #64748b;
-      --acento: #047857;
-      --acento-suave: #d8f0e4;
-      --acento-oscuro: #065f46;
-      --borde: #e2e8e5;
+      --bg: #fafafa;
+      --texto: #292321;
+      --suave: #6b625e;
+      --acento: #a3182c;
+      --acento-suave: #f8e1e1;
+      --acento-oscuro: #6f0f1e;
+      --borde: #e8e1df;
       --card: #ffffff;
-      --oscuro: #182420;
+      --oscuro: #241313;
       --ancho: 1080px;
       --ancho-prosa: 720px;
       --radius: 8px;
@@ -155,7 +155,7 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
         flex-direction: column; gap: 0;
         background: var(--bg);
         border-bottom: 1px solid var(--borde);
-        box-shadow: 0 14px 24px rgba(24, 36, 32, .08);
+        box-shadow: 0 14px 24px rgba(36, 19, 19, .08);
         padding: .4rem 1.25rem .8rem;
       }
       header.site nav.abierto { display: flex; }
@@ -230,7 +230,7 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
     }
     article.card:hover {
       border-color: var(--acento);
-      box-shadow: 0 4px 16px rgba(24, 36, 32, .06);
+      box-shadow: 0 4px 16px rgba(36, 19, 19, .06);
     }
     article.card h2 {
       font-family: var(--serif); margin: .7rem 0 .35rem;
@@ -254,7 +254,7 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
     a.chip:hover { color: var(--acento); text-decoration: underline; }
     .meta { color: var(--suave); font-size: .82rem; }
     .badge-borrador {
-      display: inline-block; background: #fee2e2; color: #b91c1c;
+      display: inline-block; background: #fef3c7; color: #92400e;
       font-size: .68rem; font-weight: 700; padding: .15rem .5rem;
       border-radius: 6px; vertical-align: middle; margin-left: .4rem;
       text-transform: uppercase; letter-spacing: .04em;
@@ -290,12 +290,12 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
       font-size: .95rem; background: #fff;
     }
     .prosa th {
-      background: #eef6f1; text-align: left; font-weight: 700;
+      background: #f7eaea; text-align: left; font-weight: 700;
       padding: .65rem .9rem; border-bottom: 2px solid var(--borde);
     }
     .prosa td { padding: .6rem .9rem; border-bottom: 1px solid var(--borde); }
     .prosa tr:last-child td { border-bottom: none; }
-    .prosa tr:nth-child(even) td { background: #f6faf7; }
+    .prosa tr:nth-child(even) td { background: #faf5f5; }
     .prosa blockquote {
       margin: 1.5rem 0; padding: .8rem 1.2rem;
       background: var(--acento-suave);
@@ -325,7 +325,7 @@ const inicialLogo = SITE.nombre.trim().charAt(0).toUpperCase();
     }
     footer.site nav { display: flex; flex-wrap: wrap; gap: 1.2rem; }
     footer.site nav a { color: #cfd8d3; }
-    footer.site nav a:hover { color: #6ee7b7; }
+    footer.site nav a:hover { color: #f2a3a3; }
     footer.site .marca {
       font-family: var(--serif); font-weight: 600; font-size: 1.05rem;
       color: #fff; display: flex; align-items: center; gap: .6rem;
